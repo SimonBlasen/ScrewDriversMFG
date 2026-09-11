@@ -1,0 +1,940 @@
+96087ebcd2ddad7805d7609d6043d0376a10cb13	SimonBlasen	2026-09-03 14:55:12 +0200	Added tank track steering module.
+2fd1ab6ef498915f34b2fb480969080d034bd72e	SimonBlasen	2026-09-03 10:10:56 +0200	Tank tracks align with ground.
+a777f1b3b15b299cdcff54876b72aa47d2bfd712	SimonBlasen	2026-09-03 08:32:28 +0200	CC
+7cf340c758f635fcfae48f79a98e1596245cd4a5	SimonBlasen	2026-09-03 08:31:13 +0200	All the things.
+c054456756ae94bba8cc248819a8e9a40b079edc	SimonBlasen	2026-08-28 14:42:12 +0200	Tank tracks,
+c307fd766c8268be71fb645b569055338ca64769	SimonBlasen	2026-08-28 09:58:23 +0200	Reset savegames in general settings.
+62e1267f0cacc869596b74a4b473ec5f0455888f	SimonBlasen	2026-08-25 16:27:46 +0200	Race ui animation for when getting hit by bug in multiplayer.
+693f2701ade6c71318159837b4d79f450cbf2097	SimonBlasen	2026-08-25 14:11:38 +0200	Fixed the bug where cars would spawn under the map (failed to calculate).
+df39d3115a37a68f2658f4283dac295dd06c5156	SimonBlasen	2026-08-25 14:01:03 +0200	Fixed a lot of toast message missing loca strings.
+e89c949c15339b89542a4decf52497377c571748	SimonBlasen	2026-08-25 10:44:58 +0200	Fixed tractor wheel unlock condition.
+5354da574fcf48e670827799c45caa42df98d493	SimonBlasen	2026-08-25 09:23:58 +0200	Smoothed content creator island terrain.
+52e22d5596002a002c6a02d00874aae8518225ea	SimonBlasen	2026-08-24 15:28:44 +0200	Patchnotes for v1.1.22.
+fc3981b3ae5a2e7d5dcccb7b2f7090cab52f3367	SimonBlasen	2026-08-24 15:12:32 +0200	Names for the map editor elements.
+c96d7a37d596007eb968e78c7d1d57a841e8e00b	SimonBlasen	2026-08-24 14:50:36 +0200	Map editor improveemnts. Ready-up improvements.
+06fb59cfc90cb0177366ebbfda2ebd03daa53c95	SimonBlasen	2026-08-24 09:53:27 +0200	mape eidtor.
+e72bcde1280a9d9eb9135d71d9df6d085590cee3	SimonBlasen	2026-08-24 09:09:57 +0200	Map editor stuff.
+2a5eb8ffc84331e29c94ad2680d8d5691e8b4ff1	SimonBlasen	2026-08-21 13:22:14 +0200	Removed solid colliders from deco v1 panels.
+f42093ceacf5deda2196cd2df111fd3eba863ec8	SimonBlasen	2026-08-21 10:33:33 +0200	Chains are properly stored in blueprints now.
+ddcd0fb90d39c6c135db82e61fb1eafecf2fc378	SimonBlasen	2026-08-21 10:28:40 +0200	Parts menu now properly works with different aspect ratios.
+6616b41fece760deff7b1a2154a1393cb18c2051	SimonBlasen	2026-08-21 10:28:10 +0200	Custom maps can be used in multiplayer.
+ff1b5de01c245f8b26aaad269edb38fbd8389ef0	SimonBlasen	2026-08-21 10:25:57 +0200	Fixed cursor not hiding when driving.
+5202cc2c083659c8675e8051fc5518d3f45eb737	SimonBlasen	2026-08-21 10:21:12 +0200	Fixed wrong rpm and power curve showing for the XR Thrust 2010.
+26564a5bedb00f4c4efffb89dcb9f26f607a452a	SimonBlasen	2026-08-21 10:17:59 +0200	Fixed unlock condition of planetary gear.
+d270a62ec65e59c48b4fd08cd1691a4b8c72695a	SimonBlasen	2026-08-21 09:20:38 +0200	Fixed clutch part name.
+3f251bc024b4889b6078433e18d6caf40df645ef	SimonBlasen	2026-08-20 18:08:38 +0200	data objects ID fix.
+c5873fcc42d37d53e9c45cc334d0694b52a4fc86	SimonBlasen	2026-08-20 16:23:54 +0200	Added patchnotes.
+cc91ed84bfc4d42aca01c1a3676236f404dcdaf1	SimonBlasen	2026-08-19 16:52:47 +0200	CC
+e6235b05f965f356db71f216204123052c48a7c6	SimonBlasen	2026-08-19 15:50:40 +0200	Added missing findable part colors.
+9ab48d2eccfe0a1151e8ceccbf047ea680e705fc	SimonBlasen	2026-08-13 21:33:01 +0200	Airport names
+fc104440613916ce8ad325350e3ce579aadd1636	SimonBlasen	2026-08-13 13:20:20 +0200	CC
+2be9d5d912cd2a200925ca4e70c13bb196d9fa8a	SimonBlasen	2026-08-13 13:19:23 +0200	lots of polishing.
+9397c65aae297e26dec061c04213f90dd25f78d4	SimonBlasen	2026-08-10 23:33:43 +0200	Fixed Pretty Fly DLC app id.
+268fc602c94a89a10bbba01126a9e01337dc3472	SimonBlasen	2026-08-10 10:46:37 +0200	Imported loca.
+9e430f2a1231328e1cfbd3e8f873d50176e2f42a	SimonBlasen	2026-08-10 08:48:52 +0200	Lots of stuff.
+efced1cb801512d25a6d30e457814c4cecacf817	SimonBlasen	2026-08-06 08:40:21 +0200	Fixed wind resistance not showing.
+c0cba976c1f85141731d10bd047430cba4a470cc	SimonBlasen	2026-08-06 08:25:30 +0200	Fixed map editor UI not blocking 'E' key.
+4f0bb69e5393be77f843194b807438ff3d824ed8	SimonBlasen	2026-08-04 09:38:14 +0200	Vulnerability hardening.
+4cd3e675330ac6111ccfb3c404a15982731081a0	SimonBlasen	2026-08-03 16:38:21 +0200	Imported loca from crowdin.
+a56c9c54ecd4e643603cff1d610115f5f2438a8d	SimonBlasen	2026-08-03 14:15:48 +0200	Re-drove combustion king ghost.
+4bc0c10eb14218a7fdb09770f51306ab151c8628	SimonBlasen	2026-08-03 13:38:37 +0200	Clutch block added, shadows fix.
+fe7b19f6d02e1b26e554a2a6c9cfe0a6a3e93bad	SimonBlasen	2026-08-03 10:32:35 +0200	Lots of stuff.
+46c7bb42be250b20e5cb28135ceabcc17ed9b433	SimonBlasen	2026-07-20 17:31:11 +0200	CC
+becbf0e94f5c55052ac9858f085cf36818d04732	SimonBlasen	2026-07-20 17:21:09 +0200	Added code for clutch (not configured yet).
+f517b17651eec4a401feeb8295c8a07388c910a3	SimonBlasen	2026-07-20 17:00:56 +0200	Fixed legacy part properties file bug (gear tutorial Marcel).
+cb3ac53aebbab46d0a9980cfbdbfba664f10a0c2	SimonBlasen	2026-07-20 13:55:13 +0200	Implemented tc block.
+b601f04fa04a205f0676df8667f241621394618e	SimonBlasen	2026-07-20 13:51:53 +0200	Refactor display name of part properties to use § instead of |.
+a2254d149455d5ccde1ad72bd56aac5dc9c4f2e0	SimonBlasen	2026-07-20 11:36:08 +0200	Fixed spawn points unlocking.
+3113517530b210533b486a2885ddcf9e1d8a3c45	SimonBlasen	2026-07-20 11:03:24 +0200	CC
+524d285b2a94bacad33b8d775aad70361c3c189a	SimonBlasen	2026-07-20 11:02:23 +0200	Merge pull request #1 from SimonBlasen/harden/server-input-validation
+046428af5002add94c0a03b966480987cf51760b	SimonBlasen	2026-07-20 11:00:12 +0200	Fixed tutorial parts menu not being scrollable.
+9e6cd0241783ff33b61d1a1b3e8631f5011bd531	SimonBlasen	2026-07-20 10:59:56 +0200	Fixed island top banner selection border.
+68c613cebc195fc1468c4501aafac2d0d7fad550	SimonBlasen	2026-07-20 10:07:57 +0200	Added IEqualityComparer to safe serialization types.
+8bd56e324e7493ef9608f0bedfb5c04b5bcba45a	SimonBlasen	2026-07-20 10:07:39 +0200	Fixed xbox sprites not showing in text meshes.
+22a7131dd873b1130e93ab35002a09fdf501dba6	SimonBlasen	2026-07-20 09:43:37 +0200	Added serialization binder to all binary serializations.
+1c6c680e5bbc2b0039612bdb29105930e4959fbb	SimonBlasen	2026-07-20 09:42:47 +0200	Disable roadmap in main menu.
+85c8134e7c2ee45ed5a13a8c2f13c9801c331b59	atlas	2026-07-17 22:47:33 +0200	Harden multiplayer server handlers against malicious clients
+12345327ab323021cb0c484e1ef16866bf94ec9b	SimonBlasen	2026-07-16 14:20:50 +0200	CC
+d0e4328a54f1f5b72205f1ba921cd5690e5daca1	SimonBlasen	2026-07-15 15:52:30 +0200	Prevent other players from kicking other players through mods.
+79b7c6bacb340ede51ba46af5acc7ed5cd21883d	SimonBlasen	2026-07-15 14:46:15 +0200	Added full release UI panel and dummy patchnotes.
+ba21410eed8948bf346d29db100441aada10bd41	SimonBlasen	2026-07-15 12:12:46 +0200	[CL] Multiplayer optimizations.
+5df48e8e935edfbe91fd7c6d0f2a93e0381babc0	SimonBlasen	2026-07-15 09:06:02 +0200	Fixed server hangs.
+150176efb7ecfce2978ceee4d2dd8e6fba5f21e6	SimonBlasen	2026-07-14 18:28:27 +0200	Map Editor Is Active bool var to false.
+499ee52339ddfad4a0659274ab87a5e0730297cf	SimonBlasen	2026-07-14 17:05:53 +0200	Loca.
+634f6635b938fc066e536c54e04720e9312cb417	SimonBlasen	2026-07-14 11:53:21 +0200	CC
+9a302f3a1c365dfd476d83b625be1b31fe211d4b	SimonBlasen	2026-07-14 11:53:10 +0200	Fixed custom maps spawning under the map.
+27cfc325b2e80301c9421f35ff975e8aa0271849	SimonBlasen	2026-07-14 11:52:34 +0200	Removed loca again (own repo now).
+5863fcfd11fed7c946f0b827406e91bb55e104f0	SimonBlasen	2026-07-14 08:48:41 +0200	Fresh CSV export.
+5d5be5697400c2ef3cd273ddb717445a2670432b	SimonBlasen	2026-07-14 08:45:59 +0200	Added loca
+f310ee549a3cf0e1946eae3363dce7eff4c56676	SimonBlasen	2026-07-13 18:13:43 +0200	Lots of fixes, lots of loca.
+c7526da5dc849ec19be5ef9f0f47b225c74cc8bc	SimonBlasen	2026-07-08 12:43:55 +0200	Re-added DLC check.
+b44b8b8235086ce565f48998a165ae95c89ac8c8	SimonBlasen	2026-07-07 17:34:02 +0200	Added blueprints.
+96dcb2156515a7bfb32b6167824d1cb1115385a0	SimonBlasen	2026-07-07 12:44:23 +0200	Added bottom scroll in garage.
+05a6fdc8c248b62add9591c79947f0a7ef8bb0c8	SimonBlasen	2026-07-07 09:41:20 +0200	CC
+17786f649fbe9ba1251c2212ec89d80c5f7c6657	SimonBlasen	2026-07-02 08:41:53 +0200	Refactor: CarGrid performance.
+4b605fab7b09039502a176892ec63aef94a27d99	SimonBlasen	2026-07-02 08:41:35 +0200	Localized creative/workshop banners of car elements.
+682cb200f5e945c18e0523b90f2e2626808dae0d	SimonBlasen	2026-07-01 15:58:12 +0200	Added fonts support for CJK.
+8a3f61f392b6ec0a0fdb1875421ac6daaadd8513	SimonBlasen	2026-07-01 14:22:47 +0200	Worked on custom map workshop handling.
+fd1aacc26c08a9dc13ad7036df05fa33a787c216	SimonBlasen	2026-07-01 12:29:05 +0200	Worked on custom map workshop uploader.
+f2d7d21abefe59731bc2122357cecb67d9336af3	SimonBlasen	2026-07-01 08:57:23 +0200	Re-added workshop browser to main menu.
+9dd1ec65c9d5f4f5b0a665f7aea5e943f8da5f14	SimonBlasen	2026-06-25 16:28:17 +0200	All islands are unlocked in creative mode.
+e7028873764bf7fdebf26f5592737cab7d6ee71f	SimonBlasen	2026-06-25 16:17:16 +0200	Worked on text wrappings.
+675e714cfb715c95ccfd8c4352f4f3f2fb06b2c1	SimonBlasen	2026-06-25 14:30:10 +0200	Localized everything (except june 2026).
+cd1bbe01c8f069fd0016b1e4d4a4c496b539cfaa	SimonBlasen	2026-06-24 17:00:05 +0200	Local stuff.
+1be2d52c74fd816a5be750a99ba2986cc904318d	SimonBlasen	2026-06-24 16:29:45 +0200	Added locas (empty)
+db10fe498b052ed57c98bfd04c802e7c62b55f58	SimonBlasen	2026-06-24 08:50:23 +0200	Merge remote-tracking branch 'origin/ATLAS-Performance-Stability' into merge-to-main
+bc505a5b6a513a48b908edcf837e9c258a15b340	SimonBlasen	2026-06-24 08:47:13 +0200	Added sound for AC1 engine.
+8404246eaaeb847ed8e1e2b680fdba6ee8b25da1	SimonBlasen	2026-06-23 17:19:16 +0200	Set custom map objects to -1000 position. Added badges to drivers license depending on owned DLCs.
+a58853a38bf248f80fa54f115fb2a243cddedaeb	SimonBlasen	2026-06-23 17:18:37 +0200	Removed AdVenture from MudBowlContest.
+10dbc1886b5520f882db1cd277f88d3e88880a99	SimonBlasen	2026-06-23 08:12:30 +0200	Fixed map eidtor placing objects while menu UI is shown.
+c54529d8b7c5c0d10d52648dd9297a3d879bfa28	atlas	2026-06-20 17:08:29 +0200	Updated NetworkLibClient and SappUnityUtils submodule references.
+e00a01dc66968bae827671c70c526ed3375c38b3	atlas	2026-06-20 17:08:29 +0200	Fixed several startup and runtime stability issues.
+287ea09d7ebcf669d74d0540fe7c9bfce15a5039	atlas	2026-06-20 17:08:29 +0200	Optimized car build and analysis performance.
+9621295f5664b7dd53863cbfba14cd907048e3ae	SimonBlasen	2026-06-19 15:23:53 +0200	Fixed tec tree scroll view content size.
+299eac8ddc9292d5d0a2b2da6e486e152721005f	SimonBlasen	2026-06-19 15:23:16 +0200	Fixed menu tutorial. Added deco panels
+8f57b47bce215bc8acecc5e3f74a70cccc53dcf5	SimonBlasen	2026-06-18 14:21:23 +0200	Added pictures to map editor objects. Added loca selector to settings menu.
+5351b871495cb5b1196bbffd77ad45573ae69439	SimonBlasen	2026-06-18 11:09:56 +0200	CC (Consistency commit)
+93894f0825305c4eee931b38131b131a58d38be4	SimonBlasen	2026-06-18 09:00:09 +0200	Fixed meshes of AC suspensions missing axle holes.
+73d0d96ef562440fdbf5b1f9665b293fd76192be	SimonBlasen	2026-06-18 08:59:52 +0200	Fixed neutral gear calculation bug.
+6efdeace8feb920125c2213e75a749b3f35e6ae8	SimonBlasen	2026-06-18 08:33:05 +0200	Fixed free gear bug.
+dd666d8a5315af98ac1833df77ff1801d94535dc	SimonBlasen	2026-06-17 16:33:58 +0200	Generated import part classes.
+c1b1cd5a76406ce14fa56e09fe496d71a9270cdb	SimonBlasen	2026-06-17 15:53:04 +0200	Added loca for part names.
+1a14a8546f94f7c232c92afc2764146d3acd7976	SimonBlasen	2026-06-17 15:51:17 +0200	Commit before running loca tool.
+f991306f439b3a4a7deb8ed62494e0883a456f9b	SimonBlasen	2026-06-17 14:02:47 +0200	Fixed placement bug when raycast hits nothing in map editor placer.
+8784018851bf24e0b364b88f7c4cb1f665ed3be0	SimonBlasen	2026-06-17 13:58:05 +0200	Some map editor stuff.
+c154a782f14a22f1e6688aa32d1c9194cfca7408	SimonBlasen	2026-06-12 17:02:45 +0200	Worked on custom map realization.
+025f8c263643bb090dbc93ac2453f4b0c98f6af3	SimonBlasen	2026-06-11 16:15:23 +0200	Edit maps and saving maps.
+2d7a5ffcd7d63c78ee578aa467ff6ae2a1ba228b	SimonBlasen	2026-06-11 12:23:49 +0200	Worked on map editor.
+13187cf25826fdc40692624e3830d74581399bf7	SimonBlasen	2026-06-10 14:49:16 +0200	Worked on map editor.
+3c473c0bb53796f4faaa954fe9641b22cd2701bd	SimonBlasen	2026-06-09 15:45:25 +0200	Worked on map editor.
+b4d240488805bc5538991b27b389e1dfdb61d344	SimonBlasen	2026-06-09 10:52:27 +0200	Started working on map editor.
+d6ee64bad2096fc3df250f6b8093aa21d7a6c44b	SimonBlasen	2026-05-01 10:44:28 +0200	CC
+2695304495c14656bd80ab3edeace23447b22c5d	SimonBlasen	2026-05-01 10:41:50 +0200	CC
+a3cf267bd30376390922fc628eda59b61f6b1b6c	SimonBlasen	2026-05-01 10:33:27 +0200	Added destructible cans.
+a0789596fdb975e7234818558e689f484cfe59f4	SimonBlasen	2026-04-28 10:46:23 +0200	Upgraded project to Unity 6000.0.73f1.
+66a5c9e1c188f312e9d2ecc5d36ed4c7d398696b	SimonBlasen	2026-04-23 10:13:42 +0200	Worked on loca, added documentation pdfs.
+d75abe8e997ba212de6eadcb4e9d49cba7d98fc8	SimonBlasen	2026-04-16 18:07:41 +0200	Worked on loca, menu tutorials, free drive spawn points.
+fd1b3a6191c8a421d8e07b57b9a041214051a43a	SimonBlasen	2026-04-15 16:26:32 +0200	Worked on localization.
+e49e0344e439ccdd495c9d29e7678cf57b1ab4f6	SimonBlasen	2026-04-10 15:08:55 +0200	Started implementing curse forge UI.
+61005671a92d78c564208f9ede566c0f704fe028	SimonBlasen	2026-03-26 17:21:27 +0100	Worked on controller support.
+9c8a4b32f42c7288591949ed597e43ef3d79d7a7	SimonBlasen	2026-03-13 14:44:07 +0100	Added controller support to car selection.
+9d2f0a68478c03069c3d3b104c7014b2c6ecf245	SimonBlasen	2026-03-13 08:52:56 +0100	CC
+99855f65f4b7df79f7ddbb67f68089975f16a80c	SimonBlasen	2026-03-13 08:52:03 +0100	Re-added ghosts of RT Map, volcano, supersonic and stunt races.
+3561bdb8cb7182ecccd1895ba66ef4eccd97f96d	SimonBlasen	2026-03-12 15:39:47 +0100	Configured minimap preview data for supersonic map.
+2f67d83a91ea499ed052b0c51b816f30cb99ff8a	SimonBlasen	2026-03-12 15:32:23 +0100	Fixed bugs in controller support in settings menu.
+bb9976efd59f423f7025d410aa29b8b2c52b817d	SimonBlasen	2026-03-11 16:32:42 +0100	Finalized Car Analysis scene.
+9a2facca0dcca5319d31dd47db669cd9efc25792	SimonBlasen	2026-03-11 15:10:20 +0100	Balanced prices of building parts.
+00afb4d31680d152b7ad1197f2257872bb3b6ba4	SimonBlasen	2026-03-11 12:58:07 +0100	Added spawn point prefab again.
+d2a8ea2885cb68de5ffe4f2f6ca4923df488dfd1	SimonBlasen	2026-03-10 18:58:29 +0100	Defined names for offroad challenges on RT map. Included offroad challenges in the RT challenges.
+25c2d2062b98d096d59a85f35a7715a1dba5dfc2	SimonBlasen	2026-03-10 17:41:42 +0100	Finalized tec tree unlock conditions.
+2d2a0cd6dd3a6e2741b94a0a53d6a46ba059ff31	SimonBlasen	2026-03-06 14:19:38 +0100	Worked on unlock conditions.
+9b853eedd9ff277e913e61dca1c7f9b4982e1dae	SimonBlasen	2026-03-06 08:20:49 +0100	Tec tree configurations.
+9add8882e5d5f1933d668f00be2ee7bc5e437f59	SimonBlasen	2026-03-02 16:07:49 +0100	Re-ordered tec tree elements.
+1519f12bd2362c08018bef0b0b68a357b08bc820	SimonBlasen	2026-02-12 10:18:35 +0100	Added car for keyart.
+275180fca260a85fe864b19e945e5ff197bf4ddd	SimonBlasen	2026-02-10 15:17:10 +0100	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2 Merge
+6bcb6a56d282227cf2b7548f586d6e59b70e1972	SimonBlasen	2026-02-10 15:16:56 +0100	Finalized curse forge update mod functionality.
+fdf70bd3c0cd20c7fbfd7941a8fbe6ddb1ccbfd8	Tudl	2026-02-10 14:59:10 +0100	added new minimap sprites for ContentCreator and Prototype island
+1b350b80faa5848cffe70266a04711bedb3baa1f	SimonBlasen	2026-02-10 11:50:47 +0100	Removed scroll wrap classes.
+60345b916fb00c24646eae0461ab9e4552d6681b	SimonBlasen	2026-02-09 17:20:28 +0100	Worked on CurseForge implementation.
+444aa93e304ad44decffa23d4203ae2c962ccb50	SimonBlasen	2026-01-22 15:53:38 +0100	Started adding curse forge SDK.
+c659398abd4ee916e0a62dabcd2dd3b12be377b8	SimonBlasen	2026-01-21 16:45:24 +0100	Added individual rigidbodies panel to car analyze test bench scene.
+1535bee318b3fb2f9ba01a0d995116e96712ecc2	SimonBlasen	2026-01-21 14:46:26 +0100	Added simple menu tutorial after the first tutorial.
+cd56fbf6ef83d7733e59391558a7d8d521d8aa00	SimonBlasen	2026-01-20 07:26:44 +0100	CC
+0442e6b38568f3b4495ff785d59982704e121b0b	SimonBlasen	2026-01-05 11:14:16 +0100	Fixed events 2026 bug, added meta infos to engines. Fixed test drive events bug.
+c28d204227d9055303e2537674a56dac7a444c6b	SimonBlasen	2025-12-22 18:00:01 +0100	Added tyre staples to kart tracks.
+fd0f066142a2e4da1028c0dbae413de980a5c9e9	SimonBlasen	2025-12-22 11:43:19 +0100	CC
+47816f87972647ad02246aca4ad07198fecfe053	SimonBlasen	2025-12-19 16:32:31 +0100	Re-added two destructibles. Configured 10 events.
+656aa5adae03049e7470a0bbaace2a4704b0190f	SimonBlasen	2025-12-17 12:11:53 +0100	Worked on events in main menu, added trees to go kart tracks.
+72bcab43e48057d0c1aa7e1ef9bf92b4c165d6b9	SimonBlasen	2025-12-16 16:58:15 +0100	Worked on events.
+a531d1bc3ad4158ac10afbc5505dd2e8401a558c	SimonBlasen	2025-12-16 14:28:34 +0100	Baked roads of karting tracks.
+28f52bb7d230b1813e5fa81f53737cdad6fc9f58	SimonBlasen	2025-12-16 14:24:57 +0100	Improved road of kart track 003
+710713e466cfb2ccaa1842e21a5c9ae20f1ab391	SimonBlasen	2025-12-16 14:17:38 +0100	Added events to main menu.
+e0cc5b7e2030d809941931a7e79326c11b1054fe	SimonBlasen	2025-12-16 14:16:48 +0100	Added go kart track checkpoints.
+9b0b5069177dce665f4e9091a04a5976d1bbe7f9	Tudl	2025-11-25 13:47:06 +0100	Added missing Assessoires for Science and Rock n Roll bundle
+9dd4b3d87d79a92a3619ffd66d0971bbacd8cc60	Tudl	2025-11-25 11:52:15 +0100	terrains
+85b3923cce4c2e7254a1118bfc112a99e6daeb60	Tudl	2025-11-21 15:08:53 +0100	CC Map terrain
+3ebb62bb1a0cc1e5ca155f3a27640e5f8ddd1bca	SimonBlasen	2025-11-21 08:09:17 +0100	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2 Merge
+66f612ee9414872b4cd7f408d7732735fd57e4f1	SimonBlasen	2025-11-21 08:09:08 +0100	CC
+ad027d10456e8d96dd0275df5e503703e5d439f0	Tudl	2025-11-20 15:46:05 +0100	Added a bit environent and terrain texture to Content creator map
+b0b8add2dcf8941173485c8539d1e949f90f442b	SimonBlasen	2025-11-18 20:03:36 +0100	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2 Merge
+a1238e7efded7cfdd3219b8031c64a552a980d5f	SimonBlasen	2025-11-18 20:03:15 +0100	Added two karting challenges.
+f9d0ff29c3a6f8bdc840d50bfb57fd51a919d64b	SimonBlasen	2025-11-18 19:22:12 +0100	CC
+c7d62f4e36a9a289127f8eef3f77a69014b4a5ff	SimonBlasen	2025-11-18 19:20:54 +0100	CC
+fa81b89a33fe6c825041e31b52a8b9872d4543fe	SimonBlasen	2025-11-18 19:04:15 +0100	CC
+a276698519ca1883bc4f509b475a5474d5f17417	SimonBlasen	2025-11-18 18:59:08 +0100	Worked on kart tracks.
+b5e525889ae0f7ce832831099fe63d1a798e5272	SimonBlasen	2025-11-18 18:42:46 +0100	Built go kart tracks.
+d3982a3679a30bbb3dc17b4ff850bb24cf90964f	Tudl	2025-11-18 16:14:32 +0100	Added missing free drive spawn points to offroad map
+f266df3352fc3a2a715c5dbc88c8883509bca0bf	Tudl	2025-11-18 16:12:16 +0100	Background colors DLC shop buttons
+b9796d5908bf3918ceee1229d0520733be9b82e2	Tudl	2025-11-18 14:53:16 +0100	Added missing name for Curls hair
+2da26ca27d2d9e4e861a1e384db1001ef3fc9e87	Tudl	2025-11-18 14:48:08 +0100	Fixed Arms in Character outfits, added stuff to Mechanic platform
+dce59a5a14f16b39ceabc26196c9a91a208d44d5	SimonBlasen	2025-11-17 20:13:31 +0100	CC
+4c01e9e11553183960c7cc68daa0aa37f79a506e	SimonBlasen	2025-11-17 19:57:12 +0100	Added map for supersonic map building.
+c9b965e68f65b8018dd1277a56f7c6e5fe14fcb6	SimonBlasen	2025-11-14 09:02:37 +0100	Cosmetic bundles.
+095a3f5cc4a0772988e68951d9678d06f2ece5b8	SimonBlasen	2025-11-06 10:25:39 +0100	No car syncing when race already started.
+6442f3a76300d5adc590b1522dc078b6f3f7913a	SimonBlasen	2025-11-05 18:46:26 +0100	Added deco panel parts.
+3c4bcec2469467317ea9c6bb36dc47851a3678fe	SimonBlasen	2025-11-04 10:58:27 +0100	Fixed ghost times of quantum queen and city tongue.
+df3ef98d9e674c121ab50b86f50493ae7f792f1b	SimonBlasen	2025-11-04 08:04:57 +0100	Added copy/paste to part properties.
+8d3f0916d98d72211af914075738e7bd96fc25cd	SimonBlasen	2025-11-03 08:41:53 +0100	Fixed some chain bugs with chainsPartPropertiesCleaner.
+97994364630db9eec30058c4cc52dac61e7ab4b0	SimonBlasen	2025-10-31 08:26:35 +0100	Fixed general settings.
+d887796fe38f860e9cb5f8be396bee446400ca92	SimonBlasen	2025-10-30 22:45:46 +0100	Fixed head screenshotter bug.
+59550f3bda52377e5588ffc49be8529f37a7c38d	SimonBlasen	2025-10-30 14:15:05 +0100	Added skeleton char outfit.
+ef815c649d2bfa5774c023485094934a1454fd43	SimonBlasen	2025-10-29 19:18:48 +0100	CC
+4f2dd96b41acba48304e7b69a763986f6b3247d9	SimonBlasen	2025-10-29 13:03:31 +0100	Added some more cosmetics.
+565a87ddfb8729b88dd5c085c5958dfb2e01081e	SimonBlasen	2025-10-29 12:32:59 +0100	Merge remote-tracking branch 'origin/lucas2' Merge
+a5f625a3afdc72f442fce6a251b9ec0d1038a2fc	SimonBlasen	2025-10-29 12:32:04 +0100	Added king head icon to playerlist in garage.
+2cf7a641c29d6c9d3b13e35eeb318ee0a62e7a84	Lucas Mößner	2025-10-29 11:48:43 +0100	Added Skins
+7cb94edcb790452f163113a1d0a9331bea98d909	SimonBlasen	2025-10-25 12:16:13 +0200	CC
+48aa2a6b499a1eb72588b0a891fb88cafaa20208	SimonBlasen	2025-10-25 12:14:08 +0200	Mip maps for road textures.
+5c157b30b753a2cafa9d3b58ab6994cc3defbe42	SimonBlasen	2025-10-23 19:04:41 +0200	Configured part colors for cosmetic DLCs.
+4652f27df4c2bd731ad15f285ff9f95966435937	Tudl	2025-10-23 11:37:27 +0200	science bundle preview image
+9a2c0ccd4ebe4810ab2fd295e2e0a7bc8b9512e1	SimonBlasen	2025-10-23 10:13:22 +0200	Knights bundle Fotostudio scene assembly.
+6f79880976bc85fb3c2b494d98ccf4fdd8c09e88	SimonBlasen	2025-10-22 16:55:17 +0200	CC
+a9585dd938623c9db5e0b3cd5ff6d9313872fbaf	SimonBlasen	2025-10-22 16:49:42 +0200	Adjusted new wheels.
+2d5e4e58c0892852c25ecb2da0ad767aa21eb6ef	SimonBlasen	2025-10-22 08:46:25 +0200	Re-enabled car of the week scene.
+a726bb21f301fb566d18b396fde0a1e554b77e9d	SimonBlasen	2025-10-21 20:45:29 +0200	Added four new wheels.
+27494ab4746699314f06510cef68d4b71a2f4463	SimonBlasen	2025-10-21 20:43:16 +0200	Added some new hair cosmetic items.
+b070f2343266998f3d810d63f4b6b92cc6f5dac3	SimonBlasen	2025-10-21 18:44:46 +0200	Merge branch 'lucas2'
+5a44c813b5eedf9692115d9dfb3ff477447e9229	SimonBlasen	2025-10-21 18:43:48 +0200	CC
+813e270ad93d33cc7a28653d71586702af4e94d9	SimonBlasen	2025-10-21 18:42:20 +0200	Fixed bug with missing silver ghost race in 'The tilted curve'.
+58561027ba3110b42acded92a4933e8e301d048d	SimonBlasen	2025-10-20 22:43:53 +0200	Added beta panel to islands. Started adding new parts to tec tree.
+86c15c7246d78d27c1ebeb495f15e7d0486bbef3	SimonBlasen	2025-10-17 08:07:13 +0200	Re-ordered normal races of content creator island.
+977a9836b8de4253ac98f650fde268cf7774ff7e	SimonBlasen	2025-10-17 07:56:43 +0200	Ported to Unity version 6000.0.60f1.
+fbb93fa2f2f56b9cb5c162b7a83542f190d82947	SimonBlasen	2025-09-29 09:37:43 +0200	Added patchnotes for v0.5.4.52.
+b5dc0552bbbf5e7cd7a7445631a24f477be9ecf9	SimonBlasen	2025-09-29 09:10:28 +0200	Excluded content creator stuff again.
+edf8d1903a190ec19b67da9cba009f9494ceb0e2	SimonBlasen	2025-09-23 15:27:11 +0200	Fixed some bugs with chain.
+d63ace8476ae618c0579a7ca9bed684ad19739b0	SimonBlasen	2025-09-22 08:36:43 +0200	Added two more challenges to content creator island.
+fd971df59eb042c837e522e0e8011bba5b61bbae	SimonBlasen	2025-09-19 16:28:21 +0200	Added 3 more content creator island challenges.
+6ad48900fc5555ce62da65ee63f44b162eb0e9a9	SimonBlasen	2025-09-19 15:14:47 +0200	Content creator map road meshes.
+bfbb63fcddd691aeb7c452e214812810c725c833	SimonBlasen	2025-09-19 15:14:02 +0200	Smoothed terrain of content creator map.
+fb11f7b2d4d61d10869ccdb97836c4d2d0b05ef0	SimonBlasen	2025-09-19 15:03:35 +0200	Scene commit of content creator map.
+4f8dcbc728426bac7d27cf07055456dcbe65ea74	SimonBlasen	2025-09-19 14:37:19 +0200	CC before working on content creator map.
+4657bf517efb901227741d310643d0dfbd86d5a1	SimonBlasen	2025-09-19 14:29:30 +0200	CC
+aa1877a36082316a0532dbecbf942867d00c1f62	SimonBlasen	2025-09-18 11:17:08 +0200	CC
+dafc24ffde5d5b03d6da4af286d7ea0964d94bbd	SimonBlasen	2025-09-18 11:16:12 +0200	CC
+411dc046b022656186d3ac1e86afb71e96944836	SimonBlasen	2025-09-18 08:28:01 +0200	Finalized new road for content creator island.
+5086ab9cd9c82d78a4c5d4e17ab3c3176e9c0f52	SimonBlasen	2025-09-18 08:21:01 +0200	Fixed road bump in content creator island.
+35319b139e3829d7782e6c40b06e818f5af733cf	SimonBlasen	2025-09-17 17:21:40 +0200	Worked on content creator challenges and engines.
+7e633df2e6ef9b022e948cc1758d060d4c7ee0f0	SimonBlasen	2025-09-17 13:19:21 +0200	CC
+c3661036605b0b8d9935772a29f4cf1a9513ee14	SimonBlasen	2025-09-17 10:41:25 +0200	Added 6 races to content creator island.
+a7d03ac66487f527401c9eafdd61c0c7532b6da5	SimonBlasen	2025-09-16 16:10:52 +0200	Worked on content creator challenges.
+aa7a49a306c9a44c21f6fc960e80e6c7b764feec	SimonBlasen	2025-09-16 15:19:26 +0200	Smoothed terrain even more.
+6800a57605c5bad0b7070804688f51f361f69d9f	SimonBlasen	2025-09-16 15:11:50 +0200	Smoothed terrain.
+d6a2167956e082b44bdf8339f510aaf89ebbc56a	SimonBlasen	2025-09-16 14:04:37 +0200	CC
+306cb494ac97e30cd88de2e88daab3cf49c5b5a2	SimonBlasen	2025-09-16 12:27:53 +0200	CC
+5a2d23ed2b6e0632fbb62e7af857fe2709c20afb	SimonBlasen	2025-09-16 12:01:10 +0200	CC
+e774ae55642265cf76de9052bdc1540afc07434f	SimonBlasen	2025-09-16 11:57:08 +0200	Worked on content creators island.
+1f9cdd3d99e827e8fc96c4ad66e893345fb84536	Lucas Mößner	2025-09-11 13:42:26 +0200	Updated Quantum Queen and Mullet Hairstyles, added 4 new ones.
+d181ded8e7c8ba042d0a7513a34b2882f83cba3f	SimonBlasen	2025-09-11 11:21:02 +0200	Made sure that the first person character actually touches the ground.
+dd456168419e56a710aa8cfd80f3e2a0832b4f3d	SimonBlasen	2025-09-11 09:52:29 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+e1edeb7c08e8f6806f02b798c3b17bf0beabb38d	Tudl	2025-09-11 09:22:27 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+8ee9fbea037345d5bd8fbfd749c83bc3bf4f880c	Tudl	2025-09-11 09:22:21 +0200	preview bundles updated
+e1ef1a43f04224b99abaa7efd1e1429f3e0c4eb6	SimonBlasen	2025-09-11 09:00:25 +0200	CC
+8196790692fb5ce4f50aec2fe7aadf548e23a433	SimonBlasen	2025-09-11 08:59:32 +0200	Fixed amount of laps being wrong sometimes in workshop showcase challenge.
+b788998458a64a469589d07d49f7180cf2cdcfe2	SimonBlasen	2025-09-10 17:35:34 +0200	CC
+1e1b02384e8b0886e41db567b466b86b65daadf5	SimonBlasen	2025-09-10 16:22:11 +0200	Fixed some drivers license stuff.
+045151ffc733661cf6870f2d5c7e6c75c8202cf5	SimonBlasen	2025-09-10 15:40:36 +0200	Worked on drivers license.
+471248c16dccb7aa7480c5da820a1ec2ed462e18	SimonBlasen	2025-09-10 14:14:53 +0200	CC
+2cbbaa14d2fcf6322da10ab28b1c6a9535cd0dbf	SimonBlasen	2025-09-10 14:01:47 +0200	CC
+c8753725bd19b5cbfab16b37ac7db53e9d316766	SimonBlasen	2025-09-10 13:47:56 +0200	CC
+984ef740a87031cbf2b249c6461b6c7e73e8c13a	SimonBlasen	2025-09-10 13:42:07 +0200	CC
+e3bc52f6d1f61ba8efcbccfb78ca1530171d3721	SimonBlasen	2025-09-10 13:15:48 +0200	CC
+1d4affb01335a02753b6db71b4ebf8792e7ed4b2	SimonBlasen	2025-09-10 13:13:36 +0200	CC
+b2ae41f7387bbeb9259151e2163b61a1fe155a70	SimonBlasen	2025-09-10 13:11:48 +0200	CC
+f844f1d81823c6133118e30e1cd0635280ca5ec9	SimonBlasen	2025-09-10 13:11:28 +0200	CC
+4cc6d4b1f51d9d199fc5de4bc64236c7a3974247	SimonBlasen	2025-09-10 13:10:23 +0200	CC
+8c1d6e87ae797a3bab60549e2a4c2738ba32ad39	SimonBlasen	2025-09-10 13:09:13 +0200	CC
+99c0aa569bbcfb6f423d522cab3d80c6c7f0167e	SimonBlasen	2025-09-10 13:07:51 +0200	CC
+6a83c66b246b41c9eaa59aacc8db307931827eb0	SimonBlasen	2025-09-10 13:06:37 +0200	CC
+e1ef343c42dca11f326842484979e2af542d03b8	SimonBlasen	2025-09-10 13:05:03 +0200	CC
+c5267e3f77f00c31166dda470592bd2984d70bfa	SimonBlasen	2025-09-10 10:01:23 +0200	Fixed building platforms being a little too high up.
+0bc986b13a31b630d8afb3243962948e66e4bb41	SimonBlasen	2025-09-10 09:59:29 +0200	Polished first person and drivers licenses.
+00cb67cd6a3aae518fe15edcce7ab3b195d575a1	SimonBlasen	2025-09-09 17:14:56 +0200	Worked on character editor and syncing drivers license over network.
+9846824ec6260bbed5c0f4791ae39ef24da7d93c	SimonBlasen	2025-09-09 11:06:12 +0200	Worked on drivers license and gaining XP.
+49665d8d62cbb39a77e94ea8676b05373ee7d556	SimonBlasen	2025-09-08 16:37:37 +0200	Worked on drivers license.
+1f168b1214ab33098476bb0d540dd9ad4c9d52c8	SimonBlasen	2025-09-08 15:37:40 +0200	Fixed player platforms being used double.
+a0d016bc3af150d016702b012045f00833c236fd	SimonBlasen	2025-09-05 10:14:15 +0200	Fixed some functions still active when chat window is opened.
+3395067620fe24664b386ed9414a6b80a6187b0b	SimonBlasen	2025-09-04 15:02:51 +0200	Some server hosting multiplayer stuff.
+21a8f0379c4ee1c579783b2dad06ce01d92e9655	SimonBlasen	2025-09-04 08:51:47 +0200	CC
+4448f5613740ed9915471d48540a649ccaf08aee	SimonBlasen	2025-09-03 17:47:29 +0200	Added burger hat, VR headset accessoire and headset-hat.
+f9912844d85c8c69814d814e37b5c5b3cde62240	SimonBlasen	2025-09-03 13:04:36 +0200	Possible fix of wheel raycasts hitting multiplayer ghosted cars.
+825ec272af8186a903732a137d8afc7493c690b6	SimonBlasen	2025-09-02 16:59:39 +0200	Worked on workshop showcase.
+b1ae80357e09f299628a5d76a0806ee065c2abae	Lucas Mößner	2025-09-01 12:59:27 +0200	Fixed Energy Can
+831a90c81bb8f487465247c74d0537f28db0b785	Tudl	2025-09-01 12:14:23 +0200	Fotos DLCs Steam
+f4f47d013f79ab8aef687b0909fb0523fc95d9f7	SimonBlasen	2025-08-31 15:07:13 +0200	Refactored workshop showcase to use dummy scriptable object.
+9e77cd58346782e76f96e276afbacd32e38222b9	SimonBlasen	2025-08-31 09:04:58 +0200	Refactored car of the week to use a dummy BlacklistChallenge scriptable object.
+0cad5b906ab546fa3412e717138285fe0fdc99a3	SimonBlasen	2025-08-30 10:28:14 +0200	Worked on workshop showcase.
+eb80406760d3daf555e836b34d878e60a8494b62	SimonBlasen	2025-08-29 19:27:16 +0200	Worked on car of the week.
+5d13ec70daa90eed303c7959005ad07fdece74cd	Tudl	2025-08-28 15:39:03 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+151baecc09502f16d98d788a31348995eaa4537c	Tudl	2025-08-28 15:38:14 +0200	added second free Building Platform
+f924ffaf31bbeb13481914d283717faa80137f8a	SimonBlasen	2025-08-28 13:26:30 +0200	Reset first person player when entering in Garage.
+7f1304f6dac3389e21543b194f706acf8a698c7e	SimonBlasen	2025-08-28 13:16:11 +0200	CC
+8a12b6991d5b5a60dd417d05494962ac4c556039	SimonBlasen	2025-08-28 13:14:39 +0200	Started working on Workshop Showcase.
+df0e1297abed47d3702c0f8c5f7007f5f46a2d28	SimonBlasen	2025-08-28 12:26:28 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+a4041dcd9c3c293aacd17e2f0aed1d696ba80cc2	SimonBlasen	2025-08-28 12:26:23 +0200	Re-added car damage in multiplayer.
+41682328ce60d7fc9266c45c54b1cd1069480e96	Tudl	2025-08-28 11:11:46 +0200	removed TBS Cigarette, added glass material for sience preiview
+c3d3a81df6589da8ab9994619d8b32454a8fb4cd	SimonBlasen	2025-08-28 07:57:12 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+808ef7c055c112ca639e8867361d31a1328dc35b	SimonBlasen	2025-08-28 07:56:47 +0200	CC
+f9cee14fceaede2a54d9671023d005bb103329e5	Tudl	2025-08-20 09:44:17 +0200	Added Mullet as cosmetic part
+097396425683ddd38339b106405e290bdecca4d3	Lucas Mößner	2025-08-19 15:37:17 +0200	Updated Monarch Material linked textures
+1c3e0765841fb8d92d5d408977dab11e4cb6d5df	SimonBlasen	2025-08-19 09:28:24 +0200	Merge branch 'main' into lucas2
+ed52d5ad24a45471bc39505e5504be16d61ebf4e	Lucas Mößner	2025-08-18 19:46:07 +0200	Added Energy Earl Haircut
+def764a51aa7c125874534bc0ca10b490c6c942c	Lucas Mößner	2025-08-18 17:58:49 +0200	Updated EnergyEarl Shirt and Can
+8a2d7c31647c35f7f9d101032bd76e4ecb20dbba	SimonBlasen	2025-08-17 10:14:33 +0200	Started working on events panel.
+21c6c80a96ee50fc6d396061ec9f55446afd4a9d	SimonBlasen	2025-08-15 16:50:47 +0200	CC
+a4722a49460cd767ad62371b715430638781de8c	SimonBlasen	2025-08-15 16:33:58 +0200	Fixed science materials.
+4704fbc1c0f3cfa8a85819075c7c0afb899c3fec	Lucas Mößner	2025-08-15 16:31:30 +0200	Improved Screen Shader
+6edc0695490436eaad5e442a5559e0312424f3d2	SimonBlasen	2025-08-15 16:25:08 +0200	CC
+0725c74b9172d09376b7b688902ac56c6f8e4de8	SimonBlasen	2025-08-15 16:23:46 +0200	CC
+8b78bb6ef8407edf68830f2d2f587110d13eb1d0	SimonBlasen	2025-08-15 11:57:10 +0200	Re-enabled collectable colors on all maps.
+03ece7e45ce8a50a978a0b63ad9a96bea189555c	SimonBlasen	2025-08-15 11:51:02 +0200	Fixed compass and added it to career.
+ffaadb3daed73f847f23579e4a90ab10afce4cf6	SimonBlasen	2025-08-15 09:25:53 +0200	Fixed all missing materials in character editor assets.
+1009099dbdc39d9fa3aca5d18049ed213bb08383	SimonBlasen	2025-08-15 08:41:21 +0200	Hair color now also affects beard color.
+6e084c86760cb36fd8ec3bbca230b310beb537bc	SimonBlasen	2025-08-15 08:28:25 +0200	Merge remote-tracking branch 'origin/lucas2'
+091eb73d7002ff7c205baa55b24b9233325ab438	SimonBlasen	2025-08-15 08:15:41 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2 CC
+8ad1e796154d2e59afd0700ba1e987451d008f5e	SimonBlasen	2025-08-15 08:15:13 +0200	CC
+783fddc5a13635d09ae4608920a3f9a2b4edf794	Tudl	2025-08-14 10:21:34 +0200	Profile Tab added Preview for RC Bundle and Science Bundle
+3260895a60bd2aa7f4faddfadb608fff4cd03991	Lucas Mößner	2025-08-12 17:45:33 +0200	Added requested DLC assets and sorted existing dlc content to match the current folder structure
+f25fbef3be999e3e12d4946b0c1c5a9910869a41	Tudl	2025-08-12 12:10:48 +0200	Worked on Profile Cosmetic Bundle Pack 3d Preview
+eab4d36914c8345a3b8b396e6cf301a1712683fd	Tudl	2025-08-12 11:42:50 +0200	Worked on Cos DLC Images, added Bed Rull as Tool
+cf89affd86c97c2c5a1c6628c9c9df005ea6fbd2	Tudl	2025-08-09 11:58:32 +0200	Added Preview Images for OFF Monarchs and filled missing Monarch Config files
+a779a75cdaf596edbc628f68583ffc74501c8f77	Tudl	2025-08-09 11:03:13 +0200	Added Spawnpoints to OFF map, fixed purple flying particles on PM
+63d614dd37b5dba7ed84c9b255cf95c8eaf91665	Lucas	2025-08-08 11:10:16 +0200	Added Gem Stone Tileables and fixed Parallax Occlusion Shader
+3909b37749d44b3de7ad3bd466d1f04361d3bf48	Tudl	2025-08-06 14:07:49 +0200	deactivated Test Map on SP and MP Drive
+007782ab4e420177b9b1a7c9028c3dd49bf1b33d	Tudl	2025-08-06 14:05:55 +0200	Ghost cars and DLC Steam image scene
+5fec0756f54416dedc718c8f5d48b6ea542f5526	Lucas	2025-08-05 21:40:15 +0200	Added New Parallax Occlusion Shader
+5a1e9cb6246eeb9bc87b8fadc4f2b840b150f008	Lucas	2025-08-04 19:28:44 +0200	Added New Gears
+a0554a10c43bfbefc7523f2c8c825a36c34ffdb2	Lucas	2025-08-03 13:21:34 +0200	Iteration on the Gear 1-5 meshes
+36eb9541a568901a927ae266176c7c4012894862	Lucas	2025-08-03 12:53:18 +0200	Added Gear Metal Material
+2a63fce5b4366897148209dfbe6160eb199d584b	Tudl	2025-07-31 16:17:42 +0200	cc
+ea7581013619ac117938016c9c3e19636a6dcc3a	Tudl	2025-07-30 12:39:59 +0200	Started with monarch Dancing Animations
+8ec4f15a68a29af52cea325471bc1c1811e73439	Tudl	2025-07-30 10:55:18 +0200	Splines alpha auf 0
+e388369c67a843c5041aa87c98351ba5683b0b4d	Tudl	2025-07-30 10:49:22 +0200	All splines for PM map challange preview
+a4a69417ffb6d76317b18973768b3814571c7ec8	Tudl	2025-07-29 16:25:29 +0200	TBS sound and Building Platform positions
+9207b88bd471a84563ac3e086a5dd43e8aea677c	SimonBlasen	2025-07-29 11:27:53 +0200	Made part photos.
+aa648ce4df0a1fd77db311960d324ce4c74bb205	SimonBlasen	2025-07-29 08:15:35 +0200	Fixed first person Garage synchronization.
+9ef325173f8c4590bbc245e0696b4cb111acbe98	SimonBlasen	2025-07-28 18:19:58 +0200	CC
+09e43e32caf740fecefe151a98526404f9beae01	SimonBlasen	2025-07-28 16:18:09 +0200	Merge branch 'lucas2' CC
+9458413640e46c11e9664b43cfe0c34f1a57ac4d	SimonBlasen	2025-07-28 16:16:39 +0200	CC
+02c6a29dc64ed185247552a42d5c98e5e848765d	SimonBlasen	2025-07-28 16:16:00 +0200	FPS
+b2ebf0d6baf209229b775d3a98b226e93f253cdd	Lucas	2025-07-28 16:06:20 +0200	Added New Gears and Transmissions
+d85fbfd3e8400193121d17f2999d4ceeadcc51e3	SimonBlasen	2025-07-28 09:03:54 +0200	CC
+e9dcba3af151439c0fbc968ea7458a36434a5c74	SimonBlasen	2025-07-25 18:14:03 +0200	CC
+546e8e8e1098e71f8471d83654fab48c87f98130	SimonBlasen	2025-07-25 14:00:50 +0200	Worked on tank tracks.
+55d065bc7894f1dec129ba6b2ce984d544cbd292	SimonBlasen	2025-07-25 08:37:50 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2 Merge
+d37f8ca16aedb62e6130d9ba78edd4755a88e586	SimonBlasen	2025-07-24 22:33:21 +0200	Fixed hinge planetary bug.
+cc81ab722bf20895bde4d4a880c068fa332d84cd	SimonBlasen	2025-07-24 22:02:49 +0200	Made airplane decals white again.
+817e475689e264e745bb965e6f5288ff1eca32b5	SimonBlasen	2025-07-24 16:16:27 +0200	CC
+3b13844ae815bcbb54096da15d685385342eea7c	SimonBlasen	2025-07-24 16:16:03 +0200	Made RT offroad challenges multiplayer exclusive.
+30b93fab79afb88036f9eed9d9ed6e003249a941	SimonBlasen	2025-07-24 15:47:31 +0200	Drove bronze for RT Challenge 034.
+ca2f6cd7da9b06516efe7a83b14150979301cecc	SimonBlasen	2025-07-24 15:38:56 +0200	Added new RT challenges to Blacklist Configuration.
+5a8388680d0834d9b4baadc32b9becc4562a3996	SimonBlasen	2025-07-24 15:35:50 +0200	RT Challenge 044
+ca00a90c1346171a7aaf3f2cb617c7f4c2d73441	SimonBlasen	2025-07-24 15:30:02 +0200	RT Challenge 043
+9555fb9c603e10a65e41e7f77420a429dacc1750	SimonBlasen	2025-07-24 15:18:23 +0200	RT Challenge 042
+b5900071b171dad0afc4a5a3c21b8ced468ab140	SimonBlasen	2025-07-24 15:02:55 +0200	RT Challenge 041
+8c0daeb4308c3290bbf66982a9822db731b8c0d3	SimonBlasen	2025-07-24 14:56:37 +0200	RT Challenge 040
+9f2b3d5422b7c59ab216f6cf524494b329858db9	SimonBlasen	2025-07-24 14:49:20 +0200	RT Challenge 039
+31c6ebc316ffbd6390ad787add05551b8b3e96cb	SimonBlasen	2025-07-24 14:39:52 +0200	RT Challenge 038
+d27d872f0dc3d90048ca3d366a8d35776d095e2a	SimonBlasen	2025-07-24 14:34:03 +0200	RT Challenge 037
+b2c2759b68c891408c60eaccafcb45bb4c8a1383	SimonBlasen	2025-07-24 14:20:36 +0200	Added offroad challenge 003.
+108a547f2ab666dfe0a0e0ad02e7271c35cf5134	SimonBlasen	2025-07-24 14:09:54 +0200	Added two offroad RT challenges.
+2f2cfca0a4e22387ab957a979e44e91dd4e6f6ad	SimonBlasen	2025-07-23 18:35:25 +0200	Added Gear16 and Gear32.
+ceb2ce20a20b6814d09b0fae76c62dcf54344d63	SimonBlasen	2025-07-22 12:08:00 +0200	Only-simulate-self is now standard mode.
+184f8d67c7ae08d684bcbbd5f54703c9171d7f9f	SimonBlasen	2025-07-22 11:56:40 +0200	Re-added beam markers to multiplayer.
+b226d00478ee1eb6b35b549b1f4dff564f887608	SimonBlasen	2025-07-22 09:25:18 +0200	Nothing is sent reliably anymore.
+6731e6602100c00555a1a3fc2e45ad9587f0ab77	SimonBlasen	2025-07-22 09:23:07 +0200	Better rigidbody lerp extrapolation synchronization.
+c498cb9464a37d137edf8f396dace252a16a1fa0	SimonBlasen	2025-07-21 18:56:44 +0200	CC
+7272befe27a519bed3840dcab4de04212a9b6c09	SimonBlasen	2025-07-21 13:49:40 +0200	CC
+4d4743f485aeaf959cd8fe1e18a9fea9bce26ce9	SimonBlasen	2025-07-21 13:49:00 +0200	CC
+f49d3858b10eb9c47b3b4048d6f8104fa32ffa87	SimonBlasen	2025-07-21 13:47:52 +0200	Fixed checkpoint reset pos not working (Order of execution).
+d6b1aae8d649f7f8d8436a736e7063a7dd9cbff9	SimonBlasen	2025-07-21 10:21:37 +0200	Implemented simple car and menu car preview chains.
+971dc7db12ed7cfc66b73f0f3c51f7a020db8026	SimonBlasen	2025-07-18 17:35:07 +0200	CC
+195943b205542d24e063385ccc82873be77980d4	SimonBlasen	2025-07-18 15:55:46 +0200	Fixed password input promot.
+cc26a6e051a1ba74af82d6f227ed22e419b9ce46	SimonBlasen	2025-07-18 14:47:54 +0200	CC
+2e62b52322823da3923364858fb0c7911e6dbefe	SimonBlasen	2025-07-18 14:45:58 +0200	Worked on chains.
+5a60782391063af51b1cd5381d9f2b48012b3b1d	SimonBlasen	2025-07-18 12:08:45 +0200	Worked on main menu server list.
+f060ff26acda8189a6819cbe13c72ff2075e3b32	SimonBlasen	2025-07-18 08:26:34 +0200	Merge remote-tracking branch 'origin/lucas2'
+e57ab26e887f008fb3137d0e10a0e3bae937b540	Lucas	2025-07-17 17:02:20 +0200	Changed Duked engine. Applied material to Duebel prefabs.
+a93e6ebae009ceb5c9aca5446733c327046f66c5	SimonBlasen	2025-07-17 13:44:53 +0200	Chains are working.
+a5579e0126c0a915e2decb25ab5d5d9cbd88357e	SimonBlasen	2025-07-17 12:39:21 +0200	Fixed inside wrapping in chains.
+86eb1725d653c11b5effeefda8df716cde744d56	SimonBlasen	2025-07-17 11:20:33 +0200	Adjusted chain calculation. Works with two gears now.
+9b753af6c539186738777bb76c4ebd01e5151d5e	SimonBlasen	2025-07-17 10:24:24 +0200	Worked on chains.
+20f6c09f3ed2f42a440f9356698e7baa79021adf	SimonBlasen	2025-07-16 18:48:18 +0200	Configurable suspensions.Started working on chains.
+a24036f42b12f7e3d101d27de45bf2b76650a4f6	SimonBlasen	2025-07-16 11:19:06 +0200	Worked on configurable suspensions.
+43b0f340f469cae313906f394b7a1453c0299cda	SimonBlasen	2025-07-16 10:07:41 +0200	Started working on no physics mode cars in multiplayer.Started working on customizable suspensions.
+a4c52826be001da2cd6a003042b83b7eb99a6026	SimonBlasen	2025-07-16 09:47:50 +0200	Reverted faulty garage scene.
+943d7c3d2d687f7cdc2b44eaa8ddf3c1d18e2e45	SimonBlasen	2025-07-15 14:45:39 +0200	CC
+d75a519e794722236e606272816e0b064bbff102	SimonBlasen	2025-07-15 13:20:44 +0200	CC
+56de4f9a6056c537f6b63fac662a002a8bf811d8	SimonBlasen	2025-07-15 13:15:12 +0200	Added new dust and wheel smoke. Added duke engine.
+4266c439a434df0e38e4e124ead2a715001266c6	SimonBlasen	2025-07-15 13:13:43 +0200	Added underside to loop street in RT map.
+91e40620f36287e00f098b9923d8d2c8999c60dc	SimonBlasen	2025-07-15 10:59:55 +0200	Added simple points system to multiplayer.
+2a1d6b2fa45d5bc73c2670688643d8a717e2bf9a	SimonBlasen	2025-07-15 08:10:36 +0200	Added duke engine anim script.
+fee21c6ebd51ac830e5fbf8345373a407094ba61	SimonBlasen	2025-07-15 07:36:56 +0200	Merge branch 'lucas2'
+e053cc2f0f0689ef73fb81bfcd4e6afd57a53b7f	Lucas	2025-07-14 21:35:47 +0200	Added Duke engine without animation
+3fc2df509854ffe5ef6451e931c7789462a0360a	Tudl	2025-07-11 15:34:09 +0200	Splines for tracks PM to QoQ
+6297efbf1e21973cc357faf05b987e1094942e24	SimonBlasen	2025-07-11 10:16:42 +0200	Started working on multiplayer play modes.
+8474323e9102c9bc42a015208477fff6ef0eed21	SimonBlasen	2025-07-11 09:15:06 +0200	Added beam marker to multiplayer again.
+c130072030f4f43e91ce4cfe3256583c1339e0a8	SimonBlasen	2025-07-11 09:07:47 +0200	Direct drive from building added again.
+17c6a0519e85ab30d42630229135cbecf9777fd3	SimonBlasen	2025-07-11 08:37:47 +0200	Fixed IGNORE_STEERING_ANGLE not working.
+00b7e75873fc6f1b39a71ca591c1f66003e05ed9	SimonBlasen	2025-07-11 08:37:23 +0200	Fixed camera rotation in building not being smooth with mouse.
+7112b04955daa76560e2d1f94b438dcf1039eec5	SimonBlasen	2025-07-11 08:15:03 +0200	Added more unlock conditions.
+3dd83e03eb27a9ff943a7319627bda85c5a16777	SimonBlasen	2025-07-10 14:15:57 +0200	Re-added x hint in building menu.
+c94d5f3fe6531d060ed67c674f3903119322c7ba	SimonBlasen	2025-07-10 14:15:27 +0200	Fixed multiplayer delta time UI not correct before a player reaches the first checkpoint.
+945ab32c15341717cf1c84701e443f9e5ecd38a1	SimonBlasen	2025-07-10 11:52:52 +0200	Make cars ghost for 6 seconds after repairing in multiplayer.
+70c5f45620964c3e89aa53be3bc30db835932863	SimonBlasen	2025-07-10 11:16:27 +0200	Check player IP and port when receiving messages.
+0e3626ac64958bde947dd232c76240b886a89d3b	SimonBlasen	2025-07-10 09:38:24 +0200	Tried to fix delta times UI.
+35c655571654d3472322b7c36cd898406fb5db13	SimonBlasen	2025-07-10 09:37:51 +0200	Worked on race suspensions.
+bc6a85d872bb4e44d5bd272d48fef3ebecd4d1ce	SimonBlasen	2025-07-09 11:26:37 +0200	Increased speed needed for 100% crash sound.
+ce94f296f073deb3e592c8e7cd09e9732f30dcd6	SimonBlasen	2025-07-09 11:15:26 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+13c446975fb04d5937abf5b33e70f8213bfce2cd	SimonBlasen	2025-07-09 11:15:19 +0200	Balanced V-engine. From 78HP to 82HP.
+8400369e9637894562e9fbc81c0c7a47fdf1f145	Tudl	2025-07-09 10:43:54 +0200	new and stronger crashing sounds
+844462a5c6db4419d4c4220759626d6bbd1b650e	SimonBlasen	2025-07-09 09:49:07 +0200	Merge branch 'lucas2'
+4f9e9075993e71d7a185c621ac36d0961dd55587	SimonBlasen	2025-07-09 09:48:01 +0200	Race UI Player element shakes now when crashing.
+35f54ccb71acb36936f632141f9c8cdb66785ed3	Lucas	2025-07-09 09:46:43 +0200	Added BRM H16 Engine
+061cf6f2cfb8e8a2dc2fad2f50bdabcb8de895ce	SimonBlasen	2025-07-09 08:56:52 +0200	Added playerlist.
+628b891ed37646a71a44020bfebc60eafb3d3ff5	SimonBlasen	2025-07-08 17:36:45 +0200	Cars Data Syncer UI is now still visible in teleporting state.
+8595cccac3daa8debdf99707b82b2bb4e6651fe3	SimonBlasen	2025-07-08 17:34:17 +0200	Fixed multiplayer proximity arrows.
+23dd658a6f3e4b4d12f81da6d6b5bd0d91697396	SimonBlasen	2025-07-08 15:28:36 +0200	Added chequered flag to multiplayer delta times UI.
+bd136366d03e120f7561e94638e692c78adc09ce	SimonBlasen	2025-07-08 15:27:43 +0200	Recalculate car, if not done yet and in multiplayer.
+82811183bd0a2953cdb9690a2f3f32901ff94c34	SimonBlasen	2025-07-08 15:27:26 +0200	Configured RT minimap borders.
+bb5e9505b20513472b9a9f7f4cc81551101bb91e	SimonBlasen	2025-07-08 12:39:14 +0200	Direct connect IP and Port fields can now be switched with TAB.
+53759cdaf7790ccd34284c31566a76ba46b2dfff	SimonBlasen	2025-07-08 12:38:45 +0200	Fixed bug, where people could not be kicked from multiplayer server.
+928ac37d6d969d2e03547c0265c1a3700a3159f0	SimonBlasen	2025-07-08 12:27:40 +0200	Fixed unlock conditions rounding problems.
+07ab9a975dfe43fb078802a79f2d4da5e1cd523e	SimonBlasen	2025-07-08 11:35:20 +0200	Fixed live multiplayer UI.
+3c7a826b7aa5284a1c73a88ff71721a11a52b0f7	SimonBlasen	2025-07-08 10:13:05 +0200	Heavily optimized ccc file size in multiplayer.
+bd4b21b00b8736464ea3478af45ab33e34f8ce44	SimonBlasen	2025-07-07 17:36:21 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+1e14b2d5771991867889f992cc08c8fcd636386e	SimonBlasen	2025-07-07 17:36:11 +0200	Multiplayer stuff.
+4968646be6dd1c91819471227dcf683c30cb904b	Tudl	2025-07-07 11:01:53 +0200	TBS Platform ground, terrain fixes, RT minimap update
+6216dc40dd2564da71bfb14db05130c17f1615c1	SimonBlasen	2025-07-04 17:20:56 +0200	CC
+8e40ff110d14c00cbc3b4b34aa0102ef2f99872d	SimonBlasen	2025-07-04 16:38:14 +0200	Shadow settings are applied on game start.
+b862f1d382f86d46b3494cebb2dc0f152df898a3	SimonBlasen	2025-07-04 16:32:33 +0200	Fixed missing translation short showing in Post Stunt UI.
+9d7cbdd27dff80bbe20494b02c1301258b22f3c0	SimonBlasen	2025-07-04 16:30:49 +0200	Increased time between countdown numbers from 0.6 to 1.
+502c97dd08b20113c119456b4c3504fe22afe663	SimonBlasen	2025-07-04 16:28:04 +0200	Moved all spawn points up by 0.4.
+e9b96867210ab734bf032826e9e7075ba934be1b	SimonBlasen	2025-07-04 16:24:11 +0200	Fixed stunt bugs.
+5c64056c7e9722fcdb86cea6a7b692c81011af32	SimonBlasen	2025-07-04 16:04:07 +0200	Remove player from multiplayer race UI, if he leaves the challenge.
+d2f94f775e95b93cf72cb4830dad8aa32430681b	SimonBlasen	2025-07-04 15:23:58 +0200	Fixed reset to checkpoint not working in multiplayer.
+2028e66ae13b1409c93222c7d30e0f24139a0491	SimonBlasen	2025-07-04 15:20:31 +0200	Added loading percentages per player in multiplayer for car data syncing.
+6d850b5477e9d615b87a0af9a041510776212b02	SimonBlasen	2025-07-04 15:17:12 +0200	Added patchnotes for v0.5.4.4.
+813647a7997cd57f37a75da46b560380156ad81f	SimonBlasen	2025-07-03 12:06:00 +0200	Disable old menu, if in multiplayer.
+f562e09d147ca58af4c049d2f0e3709deb85d5a4	SimonBlasen	2025-07-03 11:55:22 +0200	Made first person camera more dynamic.
+104c0538327b71c2b08ee404e48f31be728b2939	SimonBlasen	2025-07-03 11:14:22 +0200	Fixed dynamic cam X/Y switch.
+5ad383c6a9d3509d330cca448540ca27d0c33e73	SimonBlasen	2025-07-03 11:02:08 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+1b635312c2dda899f285a07a1ae49ec7b1ac093a	SimonBlasen	2025-07-03 11:02:02 +0200	CC
+507ca89dae730ce2bd6c82d2b9cf7619df611ba3	SimonBlasen	2025-07-03 11:01:14 +0200	Added depth of field adjuster to driving post processings.
+505c8a50cb514522109463ee380bfcf5864aa5af	Tudl	2025-07-03 10:53:19 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+d1dc03fbebf6884b8163a5b76f5b150f92c9c971	Tudl	2025-07-03 10:53:11 +0200	new cosmetics, fixed environment on tornanti turbolenti
+f33ef8812385ed82084739086f3aff014d5b43f3	SimonBlasen	2025-07-03 09:03:18 +0200	Fixed some challenges not having challenge type text.
+68357a5ccc28ce27c4b42f82d5b3f2681816f1ec	SimonBlasen	2025-07-02 20:17:04 +0200	Fixed error when unsubscribing from SOV value change events.
+39292d0fa317ede239212490e95f3c60bc382fea	SimonBlasen	2025-07-02 17:14:44 +0200	CC
+dba1406b9121b924f882cd6495953e8baeea2554	SimonBlasen	2025-07-02 15:41:24 +0200	Made building translucent UI darker to make text more readable.
+3f270cb3d9ff50abc341360b984132f8d63bf133	SimonBlasen	2025-07-02 15:18:26 +0200	CC
+cb5af5dd3f90df5c448df4368aeccd3ddee39344	SimonBlasen	2025-07-02 15:16:43 +0200	Added passenger seat.
+3b5a4517bd1d9fbdc373627e453841b30d13262e	SimonBlasen	2025-07-02 14:49:05 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+4d908c649f250c141169f97614cb9fc417a2f726	SimonBlasen	2025-07-02 14:48:59 +0200	Re-added old dynamic camera mode.
+53930d9f3ba98bf5e0bb979f6627ba9cc81d287e	Tudl	2025-07-02 14:05:14 +0200	pM map
+6371732fa7a75eef7a04a86f0a483e449828f683	Tudl	2025-07-02 12:46:28 +0200	fixed one castle section
+6be85e6f02206b05c789a1e6d95d5449aaf4ef2c	Tudl	2025-07-02 12:44:46 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+d1d2f972a38a823373673011f57f13b46f306ebf	Tudl	2025-07-02 12:44:40 +0200	Added two player character tools
+51c2d876e6add65311c8b75c75630a0b5f0b7fd5	SimonBlasen	2025-07-02 12:15:55 +0200	Fixed workshop uploader not working, if car contains DLC parts.
+6dc9af225bfd8127b614140a226aee1c437f4d67	SimonBlasen	2025-07-02 11:53:23 +0200	Fixed wheels being colored when unlocking.
+5e1060c440543991d951930e6b92e8cafd49cae5	SimonBlasen	2025-07-02 11:53:09 +0200	Fixed select car and new car having the same controller mapping.
+99d0639fd882295758698d1aad2b3ff3aad43b3f	SimonBlasen	2025-07-02 11:44:30 +0200	Fixed bug, where tec tree stuff could be unlocked just by driving the challenge, no matter how fast.
+16805ec8b24f0286b90947072523a4bdcd45c1d6	SimonBlasen	2025-07-02 11:39:17 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+9060f56ddc9a517db504ce5b85a735727f009c61	SimonBlasen	2025-07-02 11:39:12 +0200	Fixed more water clipping on Pulau Mahkota.
+323bfb8b0dd495617731b3ed3e6de79c8962d48b	Tudl	2025-07-02 11:12:46 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+7e27672bf32458f646a7383487b1a5eda26975d2	Tudl	2025-07-02 11:12:37 +0200	sitting animations
+5247d0e484cbfda2067ce6f136ece492c554e478	SimonBlasen	2025-07-02 11:02:46 +0200	Added go kart wheel 2 to tec tree.
+aaf8b036ee6510a7c2045de2b03aa6661426a01f	SimonBlasen	2025-07-02 10:58:59 +0200	Fixed bug where game becomes soft locked when renaming favorites or all or workshop tab.
+e1e6b4a693a519f4372c6b7e70916c174b75ac38	SimonBlasen	2025-07-02 10:47:22 +0200	Merge branch 'main' into lucas2
+ed53d576dba7248d4df54dfb0bb9cdb7816feb4f	SimonBlasen	2025-07-02 10:46:19 +0200	CC
+96f44ef6cd7a81131cb0238020b496dc60f75395	SimonBlasen	2025-07-02 10:41:25 +0200	Added start finish line decals placer.
+c48c9b3f0d40dd9b887502fe6e8bf51fd89e355c	SimonBlasen	2025-07-02 09:51:37 +0200	Worked on car rules panel.
+22b3803dcae44ce88b05823bca6f368d4c62362b	SimonBlasen	2025-07-02 08:33:58 +0200	Possible fix of razer on/off not applying after game start correctly.
+71ae9f0ba2ae490e7728d0df207ca017ba7568f8	SimonBlasen	2025-07-01 22:40:47 +0200	CC
+789b7fa3ef344d5b8bb36b3d0edaf810831c2305	SimonBlasen	2025-07-01 18:15:49 +0200	CC
+94ec610db9fccd746fb1a5e0d7e809d3a9ed5ce2	SimonBlasen	2025-07-01 17:50:31 +0200	Fixed tip over car rule.
+45a03fee3a5b237199c6714d6a9f24518bbeb8b6	SimonBlasen	2025-07-01 16:20:25 +0200	Worked on car rules panel.
+249be127a5cc97ac6449ac82dee4c7fcb0c53657	SimonBlasen	2025-07-01 12:51:49 +0200	Fixed gems in post race screen animation showing final gems amount before animation starts.
+5459356d3616067edd77da8155a532e73bb0c333	SimonBlasen	2025-07-01 11:58:49 +0200	Raycast all challenge spawn points to the ground.
+06501de8203d68d83bbe8636b1870ed2c3211c59	SimonBlasen	2025-07-01 11:33:16 +0200	Decreased fixed time step for multiplayer from 0.02 to 0.01.
+e6f6444c4a239575502d15d3077f6d1831daa9a7	SimonBlasen	2025-07-01 11:32:27 +0200	Fixed FPS limit not being applied on game start.
+f878e66e52f042ffe551ae0b3d35e9dd2c544f7f	SimonBlasen	2025-07-01 11:32:09 +0200	Fixed index out of bounds bug in CarCategoriesSaver.
+166ee7ed7867cef147cbcfe5adda28103285d102	SimonBlasen	2025-07-01 11:31:45 +0200	Fixed bug, where pressing 'N' in car selection both created new car and renamed car category.
+2a4741ec7fbecc6f99735e567f6225019a76af34	SimonBlasen	2025-07-01 11:31:04 +0200	Fixed bug, where 'R' for delete did not work anymore (PartIntroduction active was not reset properly.
+3677b80ff2397a40414978babc673d74db0db404	SimonBlasen	2025-07-01 10:39:53 +0200	Added blender blockouts of BRM H16 and Diesel Engine.
+cb86de8bf64489bb73fb66b93b539a4335109ffc	SimonBlasen	2025-06-30 16:31:23 +0200	Regenerated part pics.
+47aeadbc1fef9dfb213ef0b175a05ca940f94a66	SimonBlasen	2025-06-30 16:29:18 +0200	Added PartTriangle2.
+119351bac249e10ab1c74cc7ec1a258223a19dcc	SimonBlasen	2025-06-30 15:10:53 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+a61057a18acbd82c45a2b71ce8a693e773cffb88	SimonBlasen	2025-06-30 15:10:44 +0200	Re-added car categories renaming.
+3b0d2e1941422c5aebab70c736c9d192d52ca76b	Tudl	2025-06-30 14:52:01 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+d369c00079953933a064c44fea8eb42085bd3de5	Tudl	2025-06-30 14:51:52 +0200	Car selection Icons E and F
+28442498432cacccafa4e45c0900a06f0c8b6473	SimonBlasen	2025-06-30 14:09:07 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+5d08caf4ea1b1b1870aa513149167153651dc3d5	SimonBlasen	2025-06-30 14:08:57 +0200	Added old menu option.
+1f5d26f5fa7dafdb741663671114b3261e4efd4d	Tudl	2025-06-30 13:48:39 +0200	Environment fixes races PM
+7f3cda21b47ee179944b1abeff1cdd264dedb5a7	Tudl	2025-06-30 13:32:13 +0200	trick races with times and in right blacklist position
+ef5de76c7e9e8d379aa8db6d47750cb68adcd74e	SimonBlasen	2025-06-30 12:52:50 +0200	Catch, if CalculatedCar is null when calculating in building editor.
+c65a5470b50b84f50b54b22e21fe13046ab5235c	SimonBlasen	2025-06-30 11:58:55 +0200	Fixed double throttle with keyboard and controller resulting in output equal to 2.
+edf8e26792c66aab7ebeb108d9797cbd53a6c55e	SimonBlasen	2025-06-30 11:51:59 +0200	Added dead zones settings.
+b2226165b46481a574da6f59502f2f8964b6f063	SimonBlasen	2025-06-30 10:53:39 +0200	Fixed elo panels causing big lags.
+93ea49afbbe342f0a12043c7152f85ef52631e2c	SimonBlasen	2025-06-30 10:44:57 +0200	Fixed center of mass not working, if a car had brakes attached.
+7c61bfa85c0f3cbbfa3bac9e80e721ca074956db	SimonBlasen	2025-06-30 10:32:33 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+b0bac60cdb536b2c77297a09bbd8bfc146a4687f	SimonBlasen	2025-06-30 10:32:15 +0200	Removed lock icons from tec tree.
+392f5f556c33b77afd3b508fdc0e27bc02334557	Tudl	2025-06-30 09:57:15 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+a7d3b8520b1e606ef16e477606dd064ef7dc2928	Tudl	2025-06-30 09:56:29 +0200	Character Editor adds, Cos DLC buttons, RT island Wüste, Trick Race tests
+044371f0d0aeb91980f8f30ba7aa620571876c02	SimonBlasen	2025-06-30 09:51:28 +0200	Fixed DLC maps being enabled for everybody.
+ce25d7c0b3c3972d6919a4db1970148c15540c95	SimonBlasen	2025-06-30 09:49:09 +0200	Fixed anti aliasing.
+89d2e444ac89e0c360b63e07680c5919fb01b497	SimonBlasen	2025-06-30 09:25:12 +0200	Possible fix of anti aliasing.
+991f6b4fd47b714f140033afc521a0002be48c3a	SimonBlasen	2025-06-30 09:06:26 +0200	Ranklist career merge script.
+377af97c279f9ce35508856fa7dd15e2aba89e3c	SimonBlasen	2025-06-30 09:02:10 +0200	Career commit.
+fb6829fb851aa3ae00688f7a3e92e265a1b0b347	Lucas	2025-06-29 11:36:11 +0200	Merge branch 'lucas2' of https://github.com/SimonBlasen/ScrewDrivers2 into lucas2
+6dd305984766528839058e61bdf121df42604b85	Lucas	2025-06-29 11:34:05 +0200	Added Weapons
+a9db8550e51a4e6d0517e316d49f9e497d55836e	SimonBlasen	2025-06-27 12:12:03 +0200	CC
+7c26ee2837702babb7a79e8ed62f84f61fdb4641	SimonBlasen	2025-06-27 11:03:16 +0200	Finished center of mass view.
+f27332048b1ec026ae985b69df044a333d51ee06	SimonBlasen	2025-06-27 10:30:42 +0200	Re-added center of mass view.
+143735ad77a6e6443a16248df1da9ba894f13192	SimonBlasen	2025-06-27 09:39:36 +0200	Fixed bug where tutorial cars overwrites career car.
+512d88b12f422e2dbba7b932c72380c93ebe594a	SimonBlasen	2025-06-27 09:13:25 +0200	Fixed exception when changing keybinding of suspensions.
+179d5c662f28306760a6168d75127175dd11d0a1	SimonBlasen	2025-06-27 09:03:41 +0200	Fixed stepper not being controllable with controller axis anymore.
+250e77a826fd38aeddc87aacf7cf8569340d2189	SimonBlasen	2025-06-27 09:02:54 +0200	Fixed keybinding of lights throwing exception in car analysis.
+931d79ee88cd620929436b4aa53152cd04677ab3	SimonBlasen	2025-06-27 08:13:07 +0200	Minimap can be hidden with 'U' key.
+fc4adb5f3df267f4ed1f2562c7a9990698d5141d	SimonBlasen	2025-06-26 18:30:52 +0200	CC
+73dc483b2c6ae1c35ffe3f4735e48d23544b9b07	SimonBlasen	2025-06-26 17:04:28 +0200	Enabled creative mode when connecting to a multiplayer server.
+61cf08006a1bdd376c8af4585307808af6587cc4	SimonBlasen	2025-06-26 17:03:59 +0200	Fixed bug in DrivingCameraMultiplayerStartingGrid.
+1588c25a56b608ce834d3f303d0a22ff74ceeb60	SimonBlasen	2025-06-26 17:03:36 +0200	Destroy NPCAnimationSwitcher objects on server.
+9e1dc91d089bccd6ceddd9a2d914731e11b3c530	SimonBlasen	2025-06-26 17:02:37 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+5c670f58ef3747babcad38672a8882b4c7e89ffb	SimonBlasen	2025-06-26 17:02:29 +0200	Fixed free camera being too slow and not using Time.fixedDeltaTime.
+f526b78267661e8ae44091594cc732ef5b92bd68	Tudl	2025-06-26 17:00:13 +0200	Minimap preview position for PM and VOL challanges
+83aa6f78618e779d7eae2347541c53c3a2742ce2	SimonBlasen	2025-06-26 15:43:27 +0200	Load Escape Menu scene additive, when opening it from driving scene.
+768d82077453c7c3cfa9c1c5f2c85f75f981b84c	SimonBlasen	2025-06-26 15:34:08 +0200	CC
+935ffeb9c81212bd66bffff7936052881b284189	SimonBlasen	2025-06-26 15:33:49 +0200	Added pre race starting grid camera drive.
+f232297a683ed6e5d6c5409d56edb2684f8c893a	SimonBlasen	2025-06-26 15:32:57 +0200	Fixed parsing error in server host menu.
+7c9ceb87938bc4880132c5a062f72c7e5f06ad94	SimonBlasen	2025-06-26 15:32:45 +0200	Added full screen minimap.
+92f83ca8918bfb66ae633e1ac68b830cfee8eeb6	SimonBlasen	2025-06-26 15:31:50 +0200	Added 'New' panel to tec tree button in Garage.
+e254dd838bf93ce6fda114da3a58b3ea910ed9fa	SimonBlasen	2025-06-26 10:51:37 +0200	Fixed problem, when map voting does not find any suitable challenge.
+49d8ffed33f8a7633f03bf45957f7221afa93750	SimonBlasen	2025-06-26 10:51:08 +0200	Fixed missing collider on road intersection on RT map.
+086dd278597331047799bf6765c1e3dc56b99248	SimonBlasen	2025-06-26 10:50:55 +0200	Fixed some exceptions.
+7f9abc14be3d2c84d5927e935bda840024e409a2	SimonBlasen	2025-06-26 10:49:57 +0200	Added spline minimap preview.
+ca0ab2d74c92c54b18db53964ef72ad4e81f935e	SimonBlasen	2025-06-25 13:58:19 +0200	Fixed first connect always disconnecting.
+efb4afea2d0c1cff87aba496649cf11abd94a7a1	SimonBlasen	2025-06-25 09:12:02 +0200	Removed zeroes from count kosmo checkpoint delta times.
+2f6b8576c35eab0c8dde6911824505b714b85088	SimonBlasen	2025-06-25 09:07:45 +0200	Fixed racing music not playing.
+7a38d3937646c9cf1a3f4129560485e60267c3cd	SimonBlasen	2025-06-25 08:57:33 +0200	Added car errors panel to building explaining the issues with the car.
+1c9945326f11b4e5c77d56ea217b8e97e79e7765	SimonBlasen	2025-06-25 08:56:05 +0200	Fixed missing localization in post stunt UI.
+218b27849428ad74c752577b37419c8697644332	SimonBlasen	2025-06-25 08:55:49 +0200	Fixed missing localization in rename car panel.
+2f55ff5581942e6c7930b659988e1a0c965e25ca	SimonBlasen	2025-06-25 08:53:07 +0200	Fixed wrong sound at 'Go' in countdown.
+9996a16fff10056b809ffc3f5fa1d2e5b053a2d2	SimonBlasen	2025-06-24 17:25:11 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+5d25ec4429c5c301253753652e56c5fd78736d64	SimonBlasen	2025-06-24 17:25:03 +0200	Fixed mountain match not being of type RACE.
+439fde0f881d7301c888a9ca442081bd43466847	Tudl	2025-06-24 16:30:22 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+be14943856f862fba43b2edccf95489ff27dd64c	Tudl	2025-06-24 16:27:36 +0200	cc
+11d49091791aa5cc6bd4ef9fafc56efbc8f1b9b7	SimonBlasen	2025-06-24 16:03:17 +0200	Don't show creative mode cars, where all parts have not been unlocked yet (in career more).
+db57b4c4f0010020863c9f9926b08240c64fc6dc	SimonBlasen	2025-06-24 16:02:17 +0200	Car Selection 'Select' button is also clicked with ESCAPE.
+e825a33f1be40f4d346060764fdb81b291afa153	SimonBlasen	2025-06-24 16:01:55 +0200	Added DLC not owned panel, in case a car with DLC parts that isn't owned is tried to be built.
+afb6c9be375b1c431ad85f1e0f66fcdf47ebd16b	SimonBlasen	2025-06-24 15:21:31 +0200	Fixed being able to unlock parts with creative mode cars.
+a8d0a262d8a6eb06f3d530d4e02d12c1c35d79d0	SimonBlasen	2025-06-24 15:04:36 +0200	Fixed multiplayer exclusive challenges locking career progress.
+6c062a20ca742c8e412abceda8940bb5b278890c	Tudl	2025-06-24 14:18:16 +0200	count cosmo ghost
+3541b628b2498d05815d90dd4380bf74aed21c49	Tudl	2025-06-24 14:11:57 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+077ab4aba033db2f936a8942bcacad73ed8647e7	Tudl	2025-06-24 14:11:51 +0200	cc
+5f015d58951f4d1d8b4052c39b4ec0c65ac5aebc	Tudl	2025-06-24 14:10:49 +0200	spawnpoints benannt
+8603f6b7f9b25ed082dfe325b6f222d6f7575a45	SimonBlasen	2025-06-24 14:03:35 +0200	Reorganized buttons in Car Selection.
+09398fcf93f8f14699d83e0e819007692da1e32b	SimonBlasen	2025-06-24 13:45:45 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+edb0212a7ebaf92b61c4a8fdfd9e76f1bdbda188	SimonBlasen	2025-06-24 13:45:11 +0200	Re-added respawn areas to AP map.
+42cb7160aac98dde287b815a8f89ef51091ca24c	SimonBlasen	2025-06-24 13:44:38 +0200	Hide some UI in car selection at the start of the scene.
+c30f64863e57d9b88eadf65a5705910357601d2c	Tudl	2025-06-24 13:38:39 +0200	vehicles icon
+281f77d824a2822fad4c54feb092c7d9d7e30722	Tudl	2025-06-24 13:28:20 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+1b822c0dcfa6b2b316bedf87bd0657999726c915	Tudl	2025-06-24 13:26:08 +0200	Loca for all Cosmetics, Icons Profile Tab, Loca profile buttons
+7613b58f007b87c975ff170e21b85aa017468369	SimonBlasen	2025-06-24 13:04:38 +0200	Shadow settings default is now the highest quality.
+4a03220df87290ab6fbe39d933e4399261330715	SimonBlasen	2025-06-24 13:01:27 +0200	Fixed all airport lights.
+5779fcfffad6077789a2f436779d07141edef9f3	SimonBlasen	2025-06-24 12:51:25 +0200	Added loading ghosts UI.
+e6073b25dd759af46dd3dd9ff9a0bb7c0ab2c74a	SimonBlasen	2025-06-24 12:31:29 +0200	Reduced icon sizes in settings menu.
+d013d013b4141a65f11c200695aa83f79ac0661f	SimonBlasen	2025-06-24 12:17:17 +0200	Added graphics settings entry for terrain quality (terrain pixel error).
+d85ae765d083ce7e9a0d60ed1ac9b864d6fe59e9	SimonBlasen	2025-06-24 12:03:26 +0200	Added missing environments of RT challenges.
+7b936c5fba4b54491fb1d61135f07c382e5e48d7	SimonBlasen	2025-06-24 11:50:37 +0200	Added new post race camera mode.
+8eb7794a10a88178c30814b488f21458b49db1f0	SimonBlasen	2025-06-24 11:48:56 +0200	Implemented logic for collectable colors using the parts unlock module.
+92f20583cbad236ddb890eac210a24fbc4f119e2	SimonBlasen	2025-06-24 10:00:21 +0200	Leave test bench menu with X button, too.
+901a1a1028993cf564846f9ffd1b48e30af91113	SimonBlasen	2025-06-24 09:59:19 +0200	Made cars immune during teleporting and countdown of blacklist challenges.
+a2d8f578a87031cde682743548c6980f9346b0a0	SimonBlasen	2025-06-24 09:35:33 +0200	Fixed too big colliders of AP hangars.
+79889f9cada9399dee74a2b6dd7443202f1c82f4	SimonBlasen	2025-06-24 09:15:33 +0200	Fixed parts unlock module not working correctly.
+0579e8a66b0697b35ca6c17d5014d3bca0335838	SimonBlasen	2025-06-24 09:15:07 +0200	Removed 'Retry does not work yet' text from post race UI.
+be112fdf9dc1c83ffb564318abe946543f4ec431	SimonBlasen	2025-06-24 09:14:43 +0200	Fixed escape menu in garage
+b67ec8070414dcf6186f0e6b0b53ac2471898103	SimonBlasen	2025-06-23 17:37:35 +0200	CC
+1723a4439a4334eaf71db7dc6cfcb16abafb18ed	SimonBlasen	2025-06-23 17:30:05 +0200	Remember and select last selected car category.
+4905dd00f396f0aa25e230e5d82c240d8e3ec57b	SimonBlasen	2025-06-23 17:14:34 +0200	Decreased size of car category button icons again.
+2b45e122e7940abacfdf5f746a59028162c96654	SimonBlasen	2025-06-23 17:14:03 +0200	Removed duplicate Liquid script and shader.
+8cb7d772006519543c4fe527df45b4aa2f5adc9b	SimonBlasen	2025-06-23 16:53:57 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+b0e339bef4e97df0953ae5c870f5c8ac2f8b9072	SimonBlasen	2025-06-23 16:53:48 +0200	Re-implemented retry function in escape menu and post challenge UI.
+69e593b6dcc3a39ca1104913495043ad8c20400a	Tudl	2025-06-23 16:36:47 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+914f37a83bbc476ad4b006eeea347ab5dbba6463	Tudl	2025-06-23 16:36:41 +0200	cc
+ef9e152707e7b632404d0a7c647cf5fddec8cb69	Tudl	2025-06-23 16:35:20 +0200	Re Added Monarch figures and their objects, Satarted adding Cosmetic DLC Bundle Objects to Character editor
+65f4ba42dcaea0501b7a9725060c6c19d9554ccf	SimonBlasen	2025-06-23 16:29:41 +0200	CC
+18bcaad1632c3db3d9e45a0f9405d02d45d6dc04	SimonBlasen	2025-06-23 16:29:30 +0200	Increased default distance of fifth camera mode in driving.
+67d62cbbbf2cc859ec9c9ca8d4ab432986b59c2e	SimonBlasen	2025-06-23 16:29:11 +0200	Increased size of part category images in parts menu.
+90a42fb5c5c67f12ebfc97bb7b920b8792e7ae9d	SimonBlasen	2025-06-23 16:28:46 +0200	Show car calculation progress loading circle on bottom right screen in Car Selection.
+4470c78a699e4961c21c024531529cabc81a4c6c	SimonBlasen	2025-06-23 16:05:04 +0200	Disabled rev limiter on rotary engines.
+57d1f8a6569b8e58b14a99bdaffeb27f5bc877c6	SimonBlasen	2025-06-23 16:03:33 +0200	Fixed missing translations in back buttons.
+a6fe82c60e863aa05a2c02435bcbde99527a4dee	SimonBlasen	2025-06-23 14:45:00 +0200	Merge branch 'lucas2'
+2626096a9280039e8755ba409ce70b7f5595b863	SimonBlasen	2025-06-23 13:09:59 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+a2342731f783433525cd9d211960ea4cb6efd1d4	SimonBlasen	2025-06-23 13:09:51 +0200	Forced camera mode to be index 0 in every driving tutorial.
+8bd6a80ae23f860734c264d9c8faf2b71d4d5fd1	Tudl	2025-06-23 13:06:02 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+aa29ebe139143e22b6d605ad98cae543c99cc2b0	Tudl	2025-06-23 13:05:53 +0200	Switched Minimap Sprite of RT and AP
+9b5a2ca6a210c6ef238ef750d0e79e347a780e78	SimonBlasen	2025-06-23 13:05:02 +0200	Fixed driving introduction music not stopping.
+91aae156baac1b25b641b5b84c6dd60a8b27547a	SimonBlasen	2025-06-23 10:57:17 +0200	Fixed escape menu not working in driving.
+6e03b44a1f947a37096684c1a3c05234f81b3fde	Tudl	2025-06-20 15:40:35 +0200	fixed broken AP ground light textures, added camera mode icons, added undo icon
+fdcd9efdf5422b37d3fa2acb719bbca9ec5d3b8f	Tudl	2025-06-20 12:28:10 +0200	Fixed missing part textures, fixed stuff in very first driving tutorial
+35f945f76b2c51d532063d607c0c18da1888cde3	SimonBlasen	2025-06-18 17:53:14 +0200	CC
+29585d60198ef249de07725cd7721309c54fa80b	SimonBlasen	2025-06-18 17:11:11 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+8ebf7d41b5c8bcc24f2e7a309a6853fbb5b522f3	SimonBlasen	2025-06-18 17:10:36 +0200	Disable leaderboards gem in blacklist UI elements.
+c894635346042efe44bff81e3b230c95dea39083	Tudl	2025-06-18 17:09:49 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+8ad10b47510ae8d1c853e24a4e91624a2d1640a6	Tudl	2025-06-18 17:09:40 +0200	Now Spawnpoints appear
+11693432f8a2d6ad736481e806968985524fdc6d	SimonBlasen	2025-06-18 17:04:34 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+a6ed1c67fa1d6c5ace40de342912f3510facec70	SimonBlasen	2025-06-18 17:04:28 +0200	Fixed missing materials in engine, airplane parts, headlights, street wheels and volcano island.
+a8cf3951275c80c36ef2ab1c75d968fde861284b	Tudl	2025-06-18 16:50:49 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+12d7a5fbbef4b2956d9644e0a779935de2e61144	Tudl	2025-06-18 16:50:43 +0200	added icons for settings and car selection
+754af42d318b410c0cce773c69ae502031534232	SimonBlasen	2025-06-18 16:34:38 +0200	Removed zeros from checkpoint delta times of combustion king race.
+37145c7babd063dfadc736d2d4d6acc75fcb6585	SimonBlasen	2025-06-18 16:26:54 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+656c82d133b16c221080296de77f8fea4f191e04	SimonBlasen	2025-06-18 16:26:49 +0200	Fixed checkpoint delta times in gigantic bridge and windmill castle.
+d18cef90b4e7f7a5ec9fb82ccf7bdd5b74521313	Tudl	2025-06-18 16:18:50 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+9e21939410c186fe13bcae702d92654846d6345e	Tudl	2025-06-18 16:17:36 +0200	Combustion king ghost
+468bf4c4cde04780f06d4c1d7781ed49cedcb193	SimonBlasen	2025-06-18 16:10:45 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+99ac2a5d5c0c0d2c39275df28497da6e533b7dbe	SimonBlasen	2025-06-18 16:09:56 +0200	Added menu item to GhostRaceConfig to remove zeros from checkpoint delta times.
+f5aa29556fc70f17be30e83e24ab45d262621e17	Tudl	2025-06-18 16:09:27 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+4622c1c86efb0ddb997175d7d53c1c909198ac03	Tudl	2025-06-18 16:09:13 +0200	car selection icons, Ghosts für gigantic bridge and windmill race
+5bf40813f33b9fb505c55026b67c309c71367d8c	SimonBlasen	2025-06-18 16:06:41 +0200	Added super vote button for roadmap in main menu.
+a8828c70dd2654a27685439bfc5db5bbaabad68a	SimonBlasen	2025-06-18 15:57:24 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+68f134728872bf27e868ffd867d4ea509c4cbbc6	SimonBlasen	2025-06-18 15:57:18 +0200	Fixed blacklist YOU element showing gems on non-gem islands.
+107816f55b5d7beab2b79a7f84db611d8ed66442	SimonBlasen	2025-06-18 15:56:56 +0200	Fixed mirror grid.
+11025837172aa07e8b98c40f782ecdd086ec3af0	Tudl	2025-06-18 15:49:19 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+dea4f82b773120792d022cd6754d7505df4ed8ad	Tudl	2025-06-18 15:48:57 +0200	Free Drive Spawn points für alle Maps hinzugefügt
+e829111c584e5501628c360b9fd8f603cdcc64ba	SimonBlasen	2025-06-18 15:39:09 +0200	Localized bottom buttons in car selection.
+174b8b3ed8f206714d039c1a82cd93271d5ebea8	Tudl	2025-06-18 15:22:11 +0200	Removed GEM border from all monarchs
+5f84cd37343709be794847eb0af65495d7f881be	SimonBlasen	2025-06-18 15:10:41 +0200	Added combustion king car to garage.
+173b2abfb2771117fea9fd46fb5b5c04260ff9bd	SimonBlasen	2025-06-18 14:18:11 +0200	Added loca to all missing tutorials.
+21ff310e0e0f4ee4db239afcfac1b5c21d688993	SimonBlasen	2025-06-18 13:49:32 +0200	Added loca for very first driving introduction.
+5538f0a09ce363761ca90a2dacee9b5f6b1e03b5	SimonBlasen	2025-06-18 13:10:12 +0200	Fixed localization in very first part introduction.
+9b3845dcbbc88e64ac6295036bddaaab4f896fed	SimonBlasen	2025-06-18 12:07:09 +0200	Fixed creative vehicles being able to earn medals in challenges.
+62e3cf7a0f4adae0aa19331b5709ab990c8c8ff1	SimonBlasen	2025-06-18 12:06:44 +0200	Fixed standing still checkpoint not working.
+e4997e2aa47a2364698a5aa38c44f667baa92091	SimonBlasen	2025-06-18 12:06:32 +0200	Fixed 'Gain bronze in challenge xyz' text showing in tec tree, although the part was already unlocked.
+693e9688f01c8a7125578d0176e8e690092b144c	SimonBlasen	2025-06-18 12:05:57 +0200	Fixed unlockable parts in blacklist UI not showing (missing unlock conditions).
+26ed07b8fdc8a03e4636c5748955329e630ea132	SimonBlasen	2025-06-18 12:03:25 +0200	Removed two pre-built cars from the game.
+7fed5818ae090ec2859f24b0319626dc172d2465	SimonBlasen	2025-06-18 12:03:05 +0200	Disable EDITOR flag in PartIntroduction scene.
+cc622806ca7a9d3156209b45939e89195208cac6	SimonBlasen	2025-06-18 12:02:51 +0200	Made character in main menu not black anymore.
+6a7245e96addf3fedbe9e883a64cb2b1aed9199a	SimonBlasen	2025-06-18 12:02:18 +0200	Removed tree sticking through the road on RT map.
+27e9f0cf2e1cc7fa58b4a7f9c59d73bce5a7740d	SimonBlasen	2025-06-18 12:02:02 +0200	Fixed floating checkpoint in STUNT Race Skate Park Heat.
+1f42449cd8e85d7dc70122c4f5baa62d69acd307	SimonBlasen	2025-06-18 12:01:40 +0200	Added bridge environment to AP challenge 'Touch down'.
+153b712966359f952e05be31ac24b9d2d088f97e	SimonBlasen	2025-06-17 17:22:09 +0200	CC
+6c49e7f6f8e19ff464bfbfdec1e5c8974c0096c2	SimonBlasen	2025-06-17 15:37:14 +0200	Added another camera mode for driving, the free cam mode. It's not perfect or final, but you can rotate the camera with your mouse again.
+86949fbc0cd42c3ba84bfdd4be7998da6b941a42	SimonBlasen	2025-06-16 17:21:53 +0200	Configured existing multi lap challenges to use one checkpoint more.
+88443244171dad0cb6f95945201bad877f76c613	SimonBlasen	2025-06-16 15:56:52 +0200	Refresh car selection when duplicating or moving car to other category.
+5b6eb8ec1d467dd64f2369c5ed03211d8ba1ceee	SimonBlasen	2025-06-16 15:35:33 +0200	Possibly fixed controller handbrake inputs not working.
+aa3670451fc1facef94a9c1159b717c3f2b33bf4	SimonBlasen	2025-06-16 14:47:48 +0200	Fixed bug where career cars weren't refreshed and falsely claimed to be creative mode cars.
+33e8ebee67ca759d324f97fb715cd214a8fa6c98	SimonBlasen	2025-06-16 14:46:38 +0200	Fixed canvas scaling of islands top selection banner.
+20cb92f46ae99abea189d86e3a1c74142e0ff7c5	SimonBlasen	2025-06-16 14:34:23 +0200	Exclude workshop cars from ALL and specific car categories.
+23a96e469c5d8c6bd2737d35ee11f9ca5a6e29c9	SimonBlasen	2025-06-16 14:31:27 +0200	Fixed lastUsedCarsData and carcategoriessaver not being deleted completely.
+dd8e712e36cbc00aa4568a8e9a363d1767f98868	SimonBlasen	2025-06-16 14:31:06 +0200	Context menu transfer workshop car to garage.
+2a12205da952f454bba57208839cb54b1a83e314	SimonBlasen	2025-06-16 14:04:51 +0200	Added ocean surface clip.
+033151a24c6be260a0e21cd501a0be54ba9f1957	SimonBlasen	2025-06-16 12:51:20 +0200	Hide cursor in driving.
+f38480efe9f45d49892391d15cc0d66ce40a11ba	SimonBlasen	2025-06-16 12:38:42 +0200	Automatically calculate cars in the garage.
+f03fabce0482326a6a7dbaa046e56cf0d5ffd612	SimonBlasen	2025-06-16 12:23:37 +0200	Increased default mouse rotation speed in building menu.
+620384e0080ef62e18b726253f84e8e317b1fd09	SimonBlasen	2025-06-16 12:18:54 +0200	Reduced fog on AP map.
+679057fd25bb7c1db1942ffb0b016d9f9613cc41	SimonBlasen	2025-06-16 12:13:12 +0200	Made multi lap races one CP longer.
+74c390e13a0c536fb2870f1c3570618f9caf38df	SimonBlasen	2025-06-16 11:44:16 +0200	CC
+436e6b476cc54b8e0c3963557d8c5276b7d34656	SimonBlasen	2025-06-16 11:41:44 +0200	Added custom rocks shader fix.
+fc948ba5091b2ea65d84bffbdf39798b1d2f2e5f	SimonBlasen	2025-06-16 11:20:20 +0200	Updated CustomizableRocks package.
+d5c41faff3804e2964cd73476f243801481fbde2	SimonBlasen	2025-06-16 11:18:58 +0200	Replaced all rock materials on RT map until shader is fixed.
+dfa2f818e2d6012a7aa8e61d605a06594be9ddb0	SimonBlasen	2025-06-16 11:16:38 +0200	Increased normal power of MI_Rock_Small_01 material.
+96310c450943edee14d6092b3078b8442bcc7350	SimonBlasen	2025-06-16 10:33:16 +0200	Switch to Unity version 6000.0.51f1.
+25b4e269764d9b85212e312115b16d88db7b1144	SimonBlasen	2025-06-16 10:20:50 +0200	CC
+0d1ce7c3d7c4b0149b96b2455777092bc37abea2	SimonBlasen	2025-06-16 10:19:12 +0200	Copied tec tree unlock conditions from old project.
+e9d7b9e7584477bd5e63f8ce5bc021f86b5e154b	SimonBlasen	2025-06-13 16:14:56 +0200	Added patchnotes.
+6b172d1c73c0c8a8627c53f5578ed4b35201c8b0	SimonBlasen	2025-06-13 16:01:48 +0200	Fixed island names of AP map and offroad map.
+8c7d82292fe3280883460baef6bfeb99559a6281	SimonBlasen	2025-06-13 15:59:04 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+270f378aca6b06d28701ffe3719674b482607cb8	SimonBlasen	2025-06-13 15:58:30 +0200	Fixed audio tab in settings menu named wrong.
+fa420db229a514338e38660a5377eea6aa5ddcb5	Tudl	2025-06-13 15:55:15 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+ad0e14251ccb662d73e5a75b0635afadd7c5898b	Tudl	2025-06-13 15:55:08 +0200	Added Loca für Assessoires und Beards
+fec23ad779c8cf233b32d353afda934f6ce7414f	SimonBlasen	2025-06-13 15:48:39 +0200	Applied multi select color to all multi selects.
+dc72a60baf3eddb125e3edfa9c144668cac6a9ce	SimonBlasen	2025-06-13 15:40:39 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+69031b151f48c82b60a3f48c3815d7b525279107	SimonBlasen	2025-06-13 15:39:48 +0200	Added prefab for center of mass view.
+c2e123be731959c247a5ec0bfeb0ee0f6f07386d	Tudl	2025-06-13 14:12:07 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+518e39512e81e46dee84bae4a935626fe75cacac	Tudl	2025-06-13 14:11:31 +0200	Assesoires und Bärte rübergezogen und bei allen Character Editor Sachen OBJ eingefügt
+6c8029e213668683b8bfc224fe7f7c054ac0fdfb	SimonBlasen	2025-06-13 12:27:13 +0200	Fixed minimap references in PM and Supersonic.
+efbe535c67fdfa0e08635ad6f1e3889c16d03204	SimonBlasen	2025-06-13 12:25:22 +0200	Configured minimap borders for pulau mahkota.
+225395760d3091887767cb9b229a12135e2441c0	SimonBlasen	2025-06-13 12:20:38 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+7d5a0debc0786d11defe6d94d594ecececb2beae	SimonBlasen	2025-06-13 12:20:31 +0200	Added patchnotes to main menu.
+04029f145268516aea4457d873883ee9e75e867d	Tudl	2025-06-13 11:21:04 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+411d501a2bd61723f15d0fe2340ba7315810a6dd	Tudl	2025-06-13 11:20:28 +0200	Minimap Sprites PM und SUS
+b2f9895e5ab90393e2b7ed1f875b97667a8b9667	SimonBlasen	2025-06-13 11:16:00 +0200	Fixed lots of bugs.
+4a766de003d7a54352d420a4d34155999ee6a122	SimonBlasen	2025-06-12 21:02:25 +0200	Fixed some bugs.
+a81a6f4cf6703044bd17b6104042cc8c565d6b58	SimonBlasen	2025-06-12 14:57:53 +0200	Reverted to 'Skybox' skybox.
+505e8407e3132ec42568a4ff839ffdf6c260aa1d	Lucas	2025-06-12 14:40:09 +0200	Fixed Helmet Normals
+ba3ddefcabf7a55b808b1ba9859084669681061a	SimonBlasen	2025-06-12 14:01:33 +0200	CC
+5adee8cf10b76dbbac7903d1d273623c336dc91f	SimonBlasen	2025-06-12 12:16:48 +0200	Added engine transform vibrate script.
+29551a2e6c1f359dea9d7e61e238b255089061c5	SimonBlasen	2025-06-12 12:15:40 +0200	Added detailed shadow graphics settings.
+842c6cbf360bb88c2bae2e3e7e6d4779d403d2df	SimonBlasen	2025-06-11 22:32:43 +0200	Worked on graphics settings menu.
+d5f2eddbfde59232cab5b797fe896d588cc55729	Tudl	2025-06-11 16:06:31 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+6dbe98a1846256bbf704635fa22e0aa7081f51ad	Tudl	2025-06-11 16:06:19 +0200	Modified Minimaps for: PM, VOL, STUNT, PROTOTYPE, OFF
+aa4b97b261f46a6f9390dcfd1af8ac335f425cff	SimonBlasen	2025-06-11 15:23:34 +0200	CC
+17ce55f23b3deb42037cecfe6ff9e2f3ecb93db2	SimonBlasen	2025-06-11 13:35:32 +0200	Stop all threads when quitting the game through main menu.
+8cb7a571de44d638682091b5b46b12667df573b8	SimonBlasen	2025-06-11 13:28:38 +0200	Fixed sound layers not being set in island spawner.
+ea444b8f86944260a5ee5402017f236c99dec662	SimonBlasen	2025-06-11 13:24:27 +0200	Fixed sound layers.
+717531738abce23e2c2df8c3412b299e29eb6523	SimonBlasen	2025-06-11 13:18:40 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+33df094d27454d5f7d0ddfd18f6e157ab7b7e252	SimonBlasen	2025-06-11 13:18:19 +0200	Configured main menu.
+3a192e0b624d67161496148f29000142328071e1	Tudl	2025-06-11 13:14:01 +0200	RT collectables and rocks
+90a4f9f645ddf6a9008039f582f69b6733751023	Tudl	2025-06-11 12:09:17 +0200	Readded tree lists for RT Terrains
+f6678a2669c29bef619fab31ce6a71485bc0497a	Tudl	2025-06-11 11:51:19 +0200	Added Collectable colors to RT map, shortened Grass on RT terrains
+f8c5b6f6c2dde1cf9d05b7d4f303b22e8165cb3d	Tudl	2025-06-11 11:33:19 +0200	Sound layer scriptable objects added
+8ccaff1acbc39313b14ecd37a844a71e0946d17d	SimonBlasen	2025-06-11 11:29:41 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+ae82fdee1dbe685493504b56a3144d8bbb58d5cb	SimonBlasen	2025-06-11 11:29:32 +0200	Added sound layers manager.
+19b4949f618bb64c8f482e174213741f5a3c3313	Tudl	2025-06-11 10:35:47 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+4012a3e73daf3d65aa079b933240376e1170d4d4	Tudl	2025-06-11 10:35:39 +0200	Icons for Creative and Settings
+aa7f82e04d1e740497742b7e3c3fa8e9cfc201c1	SimonBlasen	2025-06-11 10:29:03 +0200	Added two camera modes for driving.
+a81ab802872312b00d5a5f6336e670478d9c681a	SimonBlasen	2025-06-11 09:36:04 +0200	RT map set pixel error from 5 to 30.
+72d5e612cfa12484d66c4f5f46121616575c0402	SimonBlasen	2025-06-11 09:24:08 +0200	Added LODs script to airplaine props.
+9e9e7e9f5f47a265fe4e8b7417f1ed3b16bda613	SimonBlasen	2025-06-11 08:41:35 +0200	Airplane maps pixel error from 5 to 30.
+c00fe1682876485027e5b7e1537c498c9cca2483	SimonBlasen	2025-06-11 08:14:16 +0200	Assigned skybox to main menu. Re-enabled creative mode button in main menu.
+363b8c8659bfe4845bad1a92d1d5418c23a57036	SimonBlasen	2025-06-10 16:11:06 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+4d55f3413cbc085256e2efa34a35a23307d86c55	SimonBlasen	2025-06-10 16:10:58 +0200	Added lucas chacater stuff.
+816673e172b988e96da9d904ab50491e1914b34b	Tudl	2025-06-10 15:59:24 +0200	Fog values
+85614df6b160fbafaf2c787f590ec54d3a079d48	Tudl	2025-06-10 15:55:42 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+f9751740d371f5bc5f8bc28c219e8f1d59538e4f	Tudl	2025-06-10 15:51:17 +0200	Main menu terrain
+7010fe0149c3b3570bd67c4dc7752c0146194ce6	SimonBlasen	2025-06-10 14:37:13 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+bb7c9db40770ecac9ecdc317e924961a401d9383	SimonBlasen	2025-06-10 14:36:22 +0200	Added all cosmetic bundle building platforms.
+cf3b4e45cda8d0d4597f366f25f751618c9fb678	Tudl	2025-06-10 14:02:18 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+4a544317b92909e16abdfadc140d82d125780005	Tudl	2025-06-10 13:55:05 +0200	skybox in garage und driving SP
+c28f7a43ece874a4768b22cfde6b8a6f1f9e300f	SimonBlasen	2025-06-10 12:39:51 +0200	CC
+a406dff11684af06eb26c682806e3ec5023c97df	SimonBlasen	2025-06-10 09:08:48 +0200	Imported all assets from Lucas branch from old project.
+b4b92af3624d29ec0d5e0ea8494e5235b9bef706	SimonBlasen	2025-06-09 14:12:56 +0200	Don't set position of car when applied, and the car has already been applied before.
+f1fde5a5fdd97f8c335acc798cbcd11dbe65fc10	SimonBlasen	2025-06-09 12:57:28 +0200	Worked on multiplayer UI in garage.
+ab235bcab5da5f83b25918a3b7bfabb1956c595f	SimonBlasen	2025-06-09 07:48:14 +0200	CC
+55cecaa3e793e7df705d6028708db536a110d56c	SimonBlasen	2025-06-06 18:20:31 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+186b24f7a2537287fb0ead303f224a5dde3641f4	SimonBlasen	2025-06-06 18:20:20 +0200	Crash derby, flags multiplayer race,
+b9383e482db9d60005dc9549ebc468547875b01d	Tudl	2025-06-05 12:30:19 +0200	Added collectables to Volcano, Prototype and Pulau, Fixed Pulau Rotating Objects
+46d34d0f84e697da29e8c221fddc64c5421e9381	Tudl	2025-06-05 10:51:59 +0200	Added Environments to all RT Races, Added collectables to Stunt DLC map
+921cdb4afca9fb803ef281165bc9ae6d5adf6ee3	Tudl	2025-06-05 10:17:25 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+c6069ba9bbbaaeb6a8a4f8702aef1ac02f00494a	Tudl	2025-06-05 10:17:17 +0200	finished Race / Stund Environment for Stunt DLC
+894233c0c8c503debb024676841a10713cb1979d	SimonBlasen	2025-06-04 17:25:53 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+bedf9c1210a357b45bd89feefedbc2fbad0a0ff5	SimonBlasen	2025-06-04 17:25:46 +0200	Added multiplayer state UI.
+6dbb634fe47e163c4fb95a87c5824b7c1e4cf9e0	Tudl	2025-06-04 16:37:26 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+9f86052f92a42ad2ca5cc78f92c7e03cc90660df	Tudl	2025-06-04 16:37:13 +0200	Added Environment to stunt challanges, added spinner, windmill and stachelwalze
+62a13822886c9e87d76b0e729661557e2f1a2306	SimonBlasen	2025-06-04 14:31:04 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+d86dcce21a81e4ee2aea0dd88e0144aa7e0058a8	SimonBlasen	2025-06-04 14:30:57 +0200	Defined islands sort order.
+20e6d2164cff840cfb33d10fa5b2247f4c4d151e	Tudl	2025-06-04 14:19:09 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+8bfadb76c449e3cfe5ff6967867651519660d25a	Tudl	2025-06-04 14:18:57 +0200	Ambience sounds
+a229a07512d0e36f116bf3221000b97f2ba8bb99	SimonBlasen	2025-06-04 12:39:58 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+9cb1124a6298c52c034b2f472091b701f871d291	SimonBlasen	2025-06-04 12:39:44 +0200	Repair cars at the beginning of a multiplayer race.
+5ea0b567a77d66b91df842952359340eccd21f12	Tudl	2025-06-04 12:21:16 +0200	added or changed missing sounds
+9479bf6a13a8a59258ee95845443e99f9f70f625	Tudl	2025-06-04 11:51:59 +0200	Added Music and Sounds
+189cfd1302222e74bbed980faac1458cbaa0e050	Tudl	2025-06-04 10:47:55 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+80f352ce6f4af1e68ee60ccf5a6440437a598a85	Tudl	2025-06-04 10:47:13 +0200	cc
+cef69f1688809a0a2f82904718bd1588d2c7fec8	SimonBlasen	2025-05-28 17:47:19 +0200	Refactored everything to use ConnectInfo.ClientServerSinglState.
+01a355e4aaefbeafcc3ea14747a2908feed67771	SimonBlasen	2025-05-28 17:45:24 +0200	CC
+1188c7168e03c57418cfe8f0566751cc40e9a4e1	SimonBlasen	2025-05-28 17:44:37 +0200	Fixed camera in driving introduction. Wasn't the prefab.
+fe9859661fba2205afaeb8e23ea071e96403c6d3	SimonBlasen	2025-05-28 17:44:10 +0200	Added multiplayer debug UI for clients.CC
+127fdaa7779189cbfdff8a1fe17b9fa504e0ce30	SimonBlasen	2025-05-28 17:43:08 +0200	Islands sort orders.
+69db79f7b64dbf4d113e973a73dc0d93052aadba	SimonBlasen	2025-05-28 17:42:55 +0200	Added offroad map SO and spawn points.
+9a17338373436bd41e8c5aa9b196c6829e5ef046	SimonBlasen	2025-05-28 17:42:38 +0200	Fixed AP challenge IDs.
+02e32a4890634a93f282248ce689b403917f235e	SimonBlasen	2025-05-28 17:42:00 +0200	Made translucent background of post race UI darker.
+c73adcf3bd80001338940a329cdd0e9d5a9eb5eb	SimonBlasen	2025-05-28 07:45:19 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+b7c881133b6bc4d36e774fd9434d597e98e0096f	Tudl	2025-05-27 15:31:41 +0200	Offroad challanges
+e1112448a6e044b6606b56c752388e8973a00754	Tudl	2025-05-27 12:37:54 +0200	Offroad map rübergezogen, Part colors einheitlich benannt, AP challanges in Blacklist, Partytröte Materials rübergezogen
+56954128255075915d427ddab1e44c0f513f8883	SimonBlasen	2025-05-27 12:08:30 +0200	Fixed garage buttons being disabled incorrectly.
+9c37eae0134d7522135277293c38b045f8b40057	SimonBlasen	2025-05-27 12:08:12 +0200	Fixed cars preview image cache not displaying newly taken images correctly.
+af0e6e51625d244557ee24d51808a62e73a3c7cc	SimonBlasen	2025-05-27 12:07:49 +0200	Log full brake in DrivingCar.
+5e3e71d616246cdac894e7caf062c1841eea6b35	SimonBlasen	2025-05-27 12:07:33 +0200	Added excuse ping manager for when the car selection is loading.
+7aa1794046ba7569d8dbc5bdef1a13630899bf76	SimonBlasen	2025-05-27 12:06:52 +0200	Fixed first driving introduction.
+753bb1a36057fb9be388218f7fc502650b573ba0	SimonBlasen	2025-05-27 09:29:31 +0200	Commented out line where graph.txt is still written.
+52c7744bb7d5070911fe032536c0d58a36569b7e	SimonBlasen	2025-05-27 09:27:45 +0200	Added ControllerNavigation to settings menu and island switcher, so the back button can be clicked with ESCAPE.
+73e895cff0e72e7f170de6a1a67ff12eac4a31c4	SimonBlasen	2025-05-27 09:27:19 +0200	Character spawns in the car seat now.
+9cbcd819be7ba536f8eb0b5c41e23bf9c78f8230	SimonBlasen	2025-05-27 09:26:52 +0200	Made medals invisible at beginning of fly-in animation.
+45ea04b7c5161a5b1cf02fc9d1251585f5bda6c6	SimonBlasen	2025-05-27 09:26:08 +0200	Enabled car textures cache for faster car selection loading.
+8a3a10b1db3b763eae26be46999df13b7f00d3ae	SimonBlasen	2025-05-27 08:05:10 +0200	Added some signs to double 8.
+47d556aa0aab30c23813626466462bd6c75dbbf9	SimonBlasen	2025-05-26 17:07:37 +0200	Changed Game Configuration.
+b6e58cfcd7245097508de7e1503baabc4e941b81	SimonBlasen	2025-05-26 17:07:07 +0200	Fixed spawn point indices of acceleration races. Changed from -1 to 0.
+255b0f2221b1bd49abe2b3102681138480bbde8e	SimonBlasen	2025-05-26 16:29:58 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+aa0569a93f9dcc2ff54013052ea16f7dd2ce8e70	SimonBlasen	2025-05-26 16:29:51 +0200	Fixed part introductions spawning in the air.
+475f47308299bc0cb775598b5c2ab7fd71da45de	Tudl	2025-05-26 16:22:55 +0200	Changed Windmill Castle Race, Made Combustion King veeeeeeeeeeery short
+3f5f6c7d7c5291319703d663426da5e0803c5201	Tudl	2025-05-26 15:59:30 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+c8d0474b3c44aaac8e840ed3316ee374a5ab244d	Tudl	2025-05-26 15:57:59 +0200	Added Environment to all Pulau Challanges
+ba4a528fb46e342be5d50b11ba715ff61ca06b99	SimonBlasen	2025-05-26 15:34:16 +0200	Disable buttons in Garage depending on multiplayer state.
+578a28362f5100397817b6ec08a04ea4730dc30c	Tudl	2025-05-26 15:03:45 +0200	New Environment objects, added Environment for Pulau challanges
+86795c0b4f63bc3a22d05bab49020345ef36a811	SimonBlasen	2025-05-26 14:29:32 +0200	Fixed character editor index out of bounds bug when deserializing old character bytes.
+81a0db9daf516e0790c611fc8349ec8c5dadcc39	SimonBlasen	2025-05-26 12:59:51 +0200	Delete car categories and last used cars data files if they still exist.
+3f715ed038b3e6cef42fb7c41fa3cc4ec8b76941	SimonBlasen	2025-05-26 11:59:41 +0200	Added game configuration settings for tec demo.
+cd3362baf583beef33710d223e9cb893f7678f5e	SimonBlasen	2025-05-26 10:48:04 +0200	Added tunnel curbs material.
+83448aac5c3b9c1c91fc3640a8297f1e6aa24786	SimonBlasen	2025-05-26 10:41:31 +0200	Fixed holes on Pulau Mahkota.
+e894538fdbb3902d43d729a287f30d88d75801b5	SimonBlasen	2025-05-26 10:36:31 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+c62deb33760ced95b07148bbdaf0d3a705ea0226	SimonBlasen	2025-05-26 10:35:31 +0200	Prevent bug, where after multiplayer unable to select island in singleplayer.
+ce1b1b2979d415be8fa1d1d20134dbbafe5d2a81	SimonBlasen	2025-05-26 10:35:01 +0200	Try to prevent full brake bug in multiplayer.
+c772db1ea06a04bc1dbf7ee66e8db817d2dd8672	SimonBlasen	2025-05-26 10:34:43 +0200	Building car screenshotter now doesn't screenshot background island.
+b6fdde303f836dea1c45f7593909eab451d9b646	SimonBlasen	2025-05-26 10:34:24 +0200	Camera update in FixedUpdate() method.
+aaf1a7fa93f5f798e53fb8127ca185c4fa6f2c3a	SimonBlasen	2025-05-26 10:34:01 +0200	Fixed holes on Pulau Mahkota.
+b085a6078ef76d3d902deaca7ba516e3caafbabc	SimonBlasen	2025-05-26 10:33:34 +0200	Added science building platform and hair.
+beb0403438f9657b91619df9e6902494e7adaed8	Tudl	2025-05-26 10:10:56 +0200	cc
+54508c4cb71c04fe8fb0fc4146398b21af2999bd	SimonBlasen	2025-05-23 16:26:37 +0200	Worked on car syncing.
+6222b900d8f38a03bf12b3b1c1fcd4e5cd616b3a	SimonBlasen	2025-05-23 16:26:14 +0200	Worked on test bench.
+4ae031a96a389455f9e1af94de72517c87bab51a	SimonBlasen	2025-05-23 12:45:16 +0200	Fixed broken parts being colored although they aren't colorable.
+d649c3ddf066ee488c685034872fedde794c13f8	SimonBlasen	2025-05-23 12:40:40 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+68eb99d1cb2826b6899016cee01300b858bee5af	SimonBlasen	2025-05-23 12:40:03 +0200	Added example explosion effect.
+c90af63f6060b43fb3059d968b8ec172529dce69	Tudl	2025-05-23 12:37:34 +0200	texturized Supersonic terrain layers, reduced grass density and Detail distance
+2c752e992b5b039d405d2c59c5906e186107e769	Tudl	2025-05-23 12:27:06 +0200	Added collectable color prefab
+3a3edfc75a3f65568f4066ccaded2a0f4f491bc6	Tudl	2025-05-23 12:02:56 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+e92a4d1f8df95effc8c8f6e966881a43a5c01904	Tudl	2025-05-23 12:02:47 +0200	Fixed all missing part color material textures
+4e0c49e126936a1a09fd7c617401de30b21efa9d	SimonBlasen	2025-05-23 12:02:37 +0200	Added garage island to building scene.
+816033539bd72eab9966b9b86b5cfa30a1279c56	SimonBlasen	2025-05-23 11:58:39 +0200	Fixed wild curves checkpoints order.
+809d7503c95f766bedde282445d4b972024975be	SimonBlasen	2025-05-23 11:56:39 +0200	Fixed obvious race.
+66089ca34d66045824be2f9e3edc5e1c4efd4c5b	SimonBlasen	2025-05-23 11:50:17 +0200	Fixed minimap and racing UI overlapping.
+0efe03145be37fc050bec46c80975d2c0832bb2b	SimonBlasen	2025-05-23 11:49:33 +0200	Fixed that ghosts made points in stunt challenges.
+9ad298398092930242a6400860223d869294f403	SimonBlasen	2025-05-23 11:43:31 +0200	Fixed Stunt Coins not working.
+c59250e73620f97bc3f37127106f972246c128a7	SimonBlasen	2025-05-23 11:15:49 +0200	Added line graphic to parts menu.
+fe72a3173e25ec45d604c968e328e1404edded8e	SimonBlasen	2025-05-23 11:07:06 +0200	Made background of parts menu more readable.
+2d981896cdd943529397b0eefb73503e6797e5b4	SimonBlasen	2025-05-23 10:58:33 +0200	Increased time camera switcher panel visible from 1s to 2.7s.
+46c8796ef188c0bc4d25ce5c4cfcfc9abaf2e502	SimonBlasen	2025-05-23 10:57:19 +0200	Seat camera starts in the middle now.
+91bb3142295d84868e6aa2a8e76853f5064e7912	SimonBlasen	2025-05-23 10:54:22 +0200	Fixed missing sprite in radial part preview in building.
+fcefd0b1a213978a759c44aaaa1b8488baea129b	SimonBlasen	2025-05-23 10:46:11 +0200	Fixed bug where all checkpoints have active mesh in the first lap,
+8edf931a622f5b2fa4adcfa0da97b627baf86278	SimonBlasen	2025-05-23 10:41:02 +0200	Camera near/far plane configuration per island.
+4a5ad185ec5d1d24ae5de0360e47b10672e3b103	SimonBlasen	2025-05-23 10:33:22 +0200	Fixed head screenshotter not displaying correctly.
+b5bee5ac22985ea90b49a4cdd3cddd951419e3f3	SimonBlasen	2025-05-23 10:32:53 +0200	Added reversing manager.
+6220a7f10cc235b15de4cba14c6f70021a7fb915	SimonBlasen	2025-05-23 10:32:35 +0200	Fixed air control always pushing forward.
+f20859929a653de8c182b68f2a342793469b74cb	SimonBlasen	2025-05-23 10:32:20 +0200	Driving camera look back button.
+0068c2579782b787455959c3fc57f02a5bd04a2e	SimonBlasen	2025-05-23 10:31:59 +0200	Added neon part materials.
+46bf3411f0905d4b90788e2427dd1c47e8c888dd	SimonBlasen	2025-05-23 08:33:32 +0200	Added missing materials and models for parts.
+467523f0523207e8f73a5db8005109185ba10c2e	SimonBlasen	2025-05-22 17:07:12 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+317dff534c7a64c415ab2388d7d0edd50c866547	SimonBlasen	2025-05-22 17:06:44 +0200	Worked on camera and camera modes.
+74727a9f88b7a171776e95a558cbd5e499802d05	Tudl	2025-05-22 15:39:05 +0200	RT map detail distance Terrains to 50
+a9d309f2b81d58377be1e17a1da6fcfe20abdeb6	Tudl	2025-05-22 15:35:23 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+332253603fe439167889ab33cd5a4fda6e9e5951	Tudl	2025-05-22 15:34:18 +0200	Racetrack and Airplanes (fast) map rübber
+cc6f07e21f27f9a925eca36c26b0a3b5efb9bf15	SimonBlasen	2025-05-22 12:08:47 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+8d4d4c7c5d409f1301b563387557359874680574	SimonBlasen	2025-05-22 12:08:40 +0200	Added cosmetic bundles selection screen to Profile.
+21c2d41566e79724aa1ef85961433ff34e8c2d00	SimonBlasen	2025-05-22 12:07:42 +0200	Added escape menu to garage and driving scenes.
+98a6e9ed23261ecbe6a98b960bbc53226a6c8553	SimonBlasen	2025-05-22 12:07:02 +0200	Fixed last used cars holder not working properly.
+b9c57a26a80cedcf13e533de059c9ebaf03d2f88	Tudl	2025-05-22 12:05:37 +0200	Added Airplanes challanges from old project
+5117cbad1e85178e71ca99b2a274638f7be0fbff	SimonBlasen	2025-05-21 17:04:15 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+d5ffcec29bd619fac6302eac2fb7660c11803ece	SimonBlasen	2025-05-21 16:58:19 +0200	Added escape menu prefab.
+f3688d19e4b548700c13c4518f88570cf944082d	Tudl	2025-05-21 16:47:52 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+43ca922936470561b29e8ff568b7b99de0871ae0	Tudl	2025-05-21 16:47:01 +0200	Volcano DLC terrain
+99debf14766c87dc0ef06d80c1485a9c1d142846	SimonBlasen	2025-05-21 16:43:22 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+67fc33c55d2160d87873b4a94856cda919e4a542	SimonBlasen	2025-05-21 16:42:22 +0200	Added minimap.
+246ebc8e300d498c9a0ea1e07326d4cbd435ae2f	Tudl	2025-05-21 16:31:43 +0200	Added DLC Cosmetic Button
+7573372f2d798ac56ed48750ddfa15e5d4f933aa	Tudl	2025-05-21 15:37:30 +0200	Stunt DLC island redo
+0084be29efa6ba4ce4e32c6662313c94d029e890	Tudl	2025-05-21 14:40:54 +0200	cc
+f9fcc558cd64b5175b9cdf28cb1dd70720b70be0	Tudl	2025-05-21 14:20:47 +0200	added grass blender and environment to map
+85e130a51c5efb13ca33f5b27755c5d53db45b7d	Tudl	2025-05-21 14:09:57 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+275f1e3d90d98330c744cffdc1ceb35b1f470a3a	Tudl	2025-05-21 14:09:49 +0200	Added and redo Volcano map, Added Pine forest package
+b92c7921c3795ee26f14302eb3d5bfbdb528d1a9	SimonBlasen	2025-05-21 12:19:54 +0200	Finalized all tutorials.
+223643b512cf3c9199bf19a0ef48352e3570f177	SimonBlasen	2025-05-21 11:18:36 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+d2ea5f28a7d2fc53958b431db9047c97b69bb26e	SimonBlasen	2025-05-21 11:18:30 +0200	Fixed part introduction Gear Shifting.
+f13735520fc9e575d126c8b4e1a6e3ee151172e7	Tudl	2025-05-21 10:56:43 +0200	Garage buttons and icons
+0383ce6043180b43f41fb16efe387d309558e5e0	SimonBlasen	2025-05-21 10:31:17 +0200	Added texture to garage buttons.
+f12c1ac4ad553f87ce393c41f608feddef2f3a13	SimonBlasen	2025-05-21 10:10:39 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+50bec3218b8577b57ed5e39f1b10d7101c5b826b	SimonBlasen	2025-05-21 10:10:33 +0200	Worked on part introductions.
+487a26183186677dd7a840abbc88ade0323033b5	Tudl	2025-05-21 10:04:31 +0200	Tonuge buttons for Garage
+1b3b2fc6fc85974dfcfffeabc7a860747f8fe523	SimonBlasen	2025-05-20 17:17:52 +0200	Added separate ControllerNavigation scripts to tabs in Profile.
+a970f527c6ee281264db58d3d2df4389c0f4a4cb	SimonBlasen	2025-05-20 13:58:45 +0200	Added blue background to island switcher scene.
+1f527aa7ca204e91765139f658cf2b0eee44778a	SimonBlasen	2025-05-20 13:54:58 +0200	CC
+fb8cc06fa263d5a0dc84afee77124fd0b2079309	SimonBlasen	2025-05-20 13:54:39 +0200	Added apply and reset buttons to Profile scene.
+13bc8cc8e469a00d7f0d6be7ae4e9190633bed3e	SimonBlasen	2025-05-20 13:52:35 +0200	Configured buttons in Garage scene.
+c9424ad3db408e17db62a459455f0ef91fff1be9	SimonBlasen	2025-05-20 13:49:35 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+24d34e11c88a1d926f5d5b180c0cfb176dafdc93	SimonBlasen	2025-05-20 13:49:08 +0200	Added tutorials selection.
+c6fadb24853ea471236e6164ff265b3c26252bd6	Tudl	2025-05-20 12:57:08 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+6d8fa3570f40678b90ee2e27740a88b6e34fae10	Tudl	2025-05-20 12:56:59 +0200	Garage Island, UI scaling, erste icons
+02d1614aa5f6d8ab44568b5700a9564c36be8bf2	SimonBlasen	2025-05-20 11:24:03 +0200	Added Profile and Tutorials Selection scenes to scenes list.
+051ee85d1178d1536a920daf806919d3887aacca	SimonBlasen	2025-05-20 10:45:45 +0200	Weird changes in InputAction Driving Backwards and Forward.
+27858ef98b0c60b9d205f3d600fb5462b4ff914f	SimonBlasen	2025-05-20 10:45:26 +0200	Implemented garage menu.
+1679d89d8ec4f26b64b26c4e1ba83f81e64246ff	SimonBlasen	2025-05-20 09:33:55 +0200	Added profile menu.
+0ca1f5e8f47c37801a06c10ee39ec99270cb655e	Tudl	2025-05-19 17:50:44 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+72496151246248e9ee0f4fb66fe6af7c4485acd6	Tudl	2025-05-19 17:50:37 +0200	cc
+5c2d254e095ca59ce710c198c2fc0993f154e3c4	SimonBlasen	2025-05-19 16:00:25 +0200	Added profile scene and character editor stuff.
+6da44711ad31aabab11ef0247764a21b7488dfd1	SimonBlasen	2025-05-19 14:16:23 +0200	Implemented logic for air checkpoints.
+c356f1da19e49976db431909118702660b3bffe2	SimonBlasen	2025-05-19 12:21:30 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+1a44d074b6e03e3fbbbdaea9fbbdd807cd8b6e04	SimonBlasen	2025-05-19 12:21:24 +0200	Disable rigidbody interpolation for fast rotating parts.
+453aeb1a7feb7753425c4689dff54761fceff45f	SimonBlasen	2025-05-19 11:43:34 +0200	Fixed players disconnecting not despawning.
+5042aaddd862a7f81957b04942224c8e55d5f722	Tudl	2025-05-19 10:47:37 +0200	pulau terrain
+a3fb14f7cd05834a7066d73c4e5b4933611c72ba	SimonBlasen	2025-05-18 14:58:49 +0200	Duplicate bytes sending with cars data.
+91c5671dd6b048559614649c1d757f0be0e5181c	SimonBlasen	2025-05-17 18:17:56 +0200	Fixed bug where other player cars weren't spawning in multiplyer sometimes.
+1417f17f332b9281a3fe36368edc5c8aa885729d	SimonBlasen	2025-05-16 18:39:02 +0200	Add missing cars to LastUsedCarsData.
+f245065f757c1e5aad41baee520b4b3e6a0dc7ef	SimonBlasen	2025-05-16 17:19:16 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+0d9024616541f93e31c22098de24b04d77567950	SimonBlasen	2025-05-16 17:18:14 +0200	CC
+b256a86438e2495028270f80d4233ee079b60dfb	SimonBlasen	2025-05-16 16:49:19 +0200	Lots of stuff.
+2870663da2509a86076511608a13ebf4f11d8375	Tudl	2025-05-16 15:51:18 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+1af29c72e3440b9015445b257aeeb706a564ebdf	Tudl	2025-05-16 15:51:05 +0200	Added lordenfell without 100MB files.
+62a289fe033a0f6298f3efce7c61b80701071ec1	SimonBlasen	2025-05-16 10:23:56 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+20a94bc65852580f8207de814ce9fe26f4393467	SimonBlasen	2025-05-16 10:23:13 +0200	Worked on ghosts medal screen.
+05444c628ee8d7c94a6e3038341f784fc6ac27a6	Tudl	2025-05-16 10:17:05 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+61287c4171418b03661c0d09e1a979c6fb8fbc25	Tudl	2025-05-16 10:16:56 +0200	CC
+284e0903d49683dcd7f0026e63719678307d3ecd	SimonBlasen	2025-05-15 16:23:16 +0200	Blacklist UI.
+998fcff91d7d571557374df5a420a37fef4e4cdb	SimonBlasen	2025-05-15 14:51:52 +0200	Worked on car selection.
+96eef0f9a4ebf5f05e3e0a8ef68a615e0011bc1e	Tudl	2025-05-14 14:58:56 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+c310ea4f613576307ca8d024e0344b01a5f71812	Tudl	2025-05-14 14:58:06 +0200	Added all Racetrack challanges
+1b560000d9db2ae1ad8031d84d5901d53992adcf	SimonBlasen	2025-05-14 14:51:36 +0200	CC
+a5036b636b08584061152f973f2e992e2acdc3b5	SimonBlasen	2025-05-14 14:38:14 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+6a368b2233808223c080f1e93ebae48ec62fc12b	SimonBlasen	2025-05-14 14:37:13 +0200	Worked on car selection.
+77e505534db3c05a32c50e73137bdd443353bc3e	Tudl	2025-05-14 12:33:59 +0200	Added Challanges for Supersonic and Pulau Makohta
+83e72d9376747a1aeb06b0ba6382b69780811ea5	SimonBlasen	2025-05-14 08:42:32 +0200	Fixed ghost cars layers.
+c6995dbcb3f1ab460839af3ef9df48f7ea18802a	SimonBlasen	2025-05-14 08:28:21 +0200	Updated collision matrix.
+31d17cd776ff9122ea1338bab6c8944f0402215a	SimonBlasen	2025-05-14 08:24:28 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+c2fb60ed021387f62f959b83d621c81cf0465244	SimonBlasen	2025-05-14 08:23:14 +0200	Configured alternative transparent materials.
+6d4621e789600142bfbdde58ecc7686b11067550	SimonBlasen	2025-05-13 23:37:15 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+b451ec64944d9c0011f238da0245f6dbaef0bc1d	SimonBlasen	2025-05-13 23:35:38 +0200	Added rotary engine sounds for airplanes.
+0070168fa0546d7d76bf4c70f68ad7c9d44052ed	SimonBlasen	2025-05-13 16:34:21 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+8b7cd5ba8f2da07a1cf009857991170ef97f1ccb	SimonBlasen	2025-05-13 16:34:07 +0200	GhostRaceRealizer.
+bfbad342a3983fb8231fe88dbb956f9a246c68ff	Tudl	2025-05-13 15:37:13 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+b960cfe656900bb24a2ee033ab7d7333925f7af0	Tudl	2025-05-13 15:36:00 +0200	Added stunt challanges
+7d386482ac577026e8ea4a386042c89d15ff5b30	SimonBlasen	2025-05-13 14:45:17 +0200	Merge branch 'main' of https://github.com/SimonBlasen/ScrewDrivers2
+9721bb168021e9ba9894e8760c9282988228c0cb	SimonBlasen	2025-05-13 14:44:16 +0200	Added racetrack map and airplanes map.
+4ebc1ed79764d4bf2dab0cb443f8ea6c10816b74	Tudl	2025-05-13 14:36:12 +0200	Challanges Volcano
+ba41146e07317aef0ca7510cf5d3f4acdeb8603a	SimonBlasen	2025-05-13 12:42:02 +0200	Added name of RT island.
+44a9c113457db67268a1fe4e27b89ec2713fc9ca	SimonBlasen	2025-05-12 17:40:35 +0200	Started adding islands.
+d475be53e3c17094b0e7a6a20e5ae692cd345dff	SimonBlasen	2025-05-12 16:13:01 +0200	Added stunt challenges logic.
+7b0cc95d3b7dd828dea1b4b9a87e1efa795b2599	SimonBlasen	2025-05-09 17:17:51 +0200	Blacklist UI etc.
+abb265587a62ebc1b00d97ac6bd2aff7cf95a105	SimonBlasen	2025-05-09 17:17:17 +0200	Added two challenges.
+e43915ea39896ba93eefa7a225fc3979281a1034	SimonBlasen	2025-05-09 12:28:46 +0200	Added controller mapping for PS5.
+23f7a04b3738615f84824ea78084f663aa45a775	SimonBlasen	2025-05-08 16:46:35 +0200	CC
+55d038016db5984fa31717df1731ea301e2d5389	SimonBlasen	2025-05-08 16:16:33 +0200	Added race suspension 2.
+ef1f085e91dca6625812ac90655950bb8494e16c	SimonBlasen	2025-05-08 14:50:48 +0200	Added all part colors, materials and textures.
+835ead6cd8824e88c104c43177ce91e2c0a55095	SimonBlasen	2025-05-08 12:52:00 +0200	Worked on free drive spawning and island selection.
+7397272cd9e60669da5a29c360366c9066329f06	SimonBlasen	2025-05-07 17:37:09 +0200	Started working on free drive spawn points panel.
+0d1b17e581f4f069dbc9b14898bd1bb923f3dda8	SimonBlasen	2025-05-07 15:17:11 +0200	Added multiplayer host panel.
+46356e84058ccb5f9cc6835d9d57149ded1e6970	SimonBlasen	2025-05-07 13:28:56 +0200	Added main menu script.
+b3964f4e1db98ab2b5f9f72f891306ccc2f0003c	SimonBlasen	2025-05-07 12:29:49 +0200	Fixed DrivingCarLocal not taking trigger as input. Also fixed handbrake.
+d97cf2f10870de82c0ca26c1fc24972fbd59627a	SimonBlasen	2025-05-07 12:18:49 +0200	CC
+c4b4e2a605ddf1f7e4b86a8d5a5f600f7f16bda0	SimonBlasen	2025-05-07 12:03:58 +0200	Added Tech Tree.
+db0495f804a689e2c946b42a0852f60d252924e6	SimonBlasen	2025-05-07 10:12:50 +0200	Worked on Blacklist UI.
+1746f2752692b7b17bc8eab170cbe7a1021e594f	SimonBlasen	2025-05-06 16:01:34 +0200	Started working on blacklist UI.
+26413bccb98b37c057167f65a1fa8fe2b76d605f	SimonBlasen	2025-05-06 14:33:40 +0200	Driving introduction works.
+160536d05b1a42384d643eca02356758aa501465	SimonBlasen	2025-05-06 12:07:46 +0200	Worked on part introduction.
+9929912250e63744d9915883a446b14d1e49f688	SimonBlasen	2025-05-06 10:00:16 +0200	Post Race UI,Gain Car Sequence,Parts Unlock Panel.
+6220b931fa0f1d4d48ba3461457ad6f405268bbe	SimonBlasen	2025-05-05 19:49:07 +0200	Post Race UI seems to work.
+12ccf33f087b4859bb9e50d1108277613b38d4fa	SimonBlasen	2025-05-05 17:39:11 +0200	Worked on blacklist challenges in multiplayer.Worked on post race UIs.
+42710622dd0310a6ee6d61019ef8dd6e27f71731	SimonBlasen	2025-05-01 12:15:33 +0200	Worked on blacklist initialization in multiplayer.
+d50815e6e0ef1c328c2909614398c000bba7e9c5	SimonBlasen	2025-04-30 18:11:06 +0200	Worked on blacklist challenges.
+b997afa03d7654fa2ff5fc160e0d1bac996f715b	SimonBlasen	2025-04-29 08:09:57 +0200	Car selection,Driving, repairing,Dynamic fixed delta time.
+f118b46760e6d5aa5acfb86fc7cf9ad83b0310ba	SimonBlasen	2025-04-28 15:19:34 +0200	Added simple car selection.
+d0f754fd61e54becdf53797934b13f9f850b7d20	SimonBlasen	2025-04-26 11:16:44 +0200	Enable rigidbody interpolation on PartParent.
+f883aa61db0dff1c10bcaa87ad3a12d67b22ba0a	SimonBlasen	2025-04-26 11:15:59 +0200	Added simple driving camera.
+c89d4fe33f127ce75f49b27b5cb2ba99197d5da7	SimonBlasen	2025-04-25 17:20:38 +0200	CC
+d1c37ba5eca7c5999deff31c5e4fd5086ba90b4c	SimonBlasen	2025-04-25 17:19:54 +0200	Worked on multiplayer driving.
+116c75a52232ae2b30cb4c8b9e49238cd14d7329	SimonBlasen	2025-04-25 14:37:30 +0200	Worked on car analyse scene.
+a1819bdca183a2b96c465052073458baae8e8e29	SimonBlasen	2025-04-25 12:29:05 +0200	Marked all sound files to not preload.
+a4a016ba4d1b381a47f031c99c6381c23c680e24	SimonBlasen	2025-04-25 10:16:49 +0200	Implemented parts properties.
+bac7ed0eb67e202c63dc30550e7d60469f0e77fe	SimonBlasen	2025-04-23 17:32:07 +0200	Added car analysis scene.Added prefabs for SimpleCar2.
+2644d990dacb855cd81193c819bae7320adb03e2	SimonBlasen	2025-04-23 16:27:13 +0200	Worked on building scene and car analysis.
+d145e63d3aa8d76f15abc3224e4927118b59d9b7	SimonBlasen	2025-04-23 12:56:30 +0200	CC
+b91dd248b68a4f9cb29eb4c89d25747e3fe6ee04	SimonBlasen	2025-04-23 12:56:01 +0200	Added some parts materials and XBox icons.
+b65329cd185da8fedc727ce482bccf1c05cdbe1d	SimonBlasen	2025-04-23 11:48:12 +0200	Added NSW support.
+00ff0485c9637142001ad7da40c99613667c641a	SimonBlasen	2025-04-23 09:07:53 +0200	Worked on building editor.
+cbfdacae6608810d072f65453d1382b4c3e5df07	SimonBlasen	2025-04-22 17:13:19 +0200	CC
+4cc08dcc9158864d7d8aaef07c4fd1165c7d239f	SimonBlasen	2025-04-22 17:10:01 +0200	Some build files.
+f15a97431d742060a6ae5dea47be984b0045375d	SimonBlasen	2025-04-22 17:08:56 +0200	Added 3D models and prefabs for all parts.
+e5075cc6d5aa7e96c98126786d3a900129f2e1f1	SimonBlasen	2025-04-22 17:08:18 +0200	Worked on building editor.
+4282c11b8945aca91321fe2614f5b0d50f994e54	SimonBlasen	2025-04-22 17:06:45 +0200	Added some materials for building editor.
+d42cac71d76a2c74d69b2c4a50e1400ea8352be9	SimonBlasen	2025-04-22 17:05:51 +0200	Added SO events.
+f06edf5a0625834652b4f56523576cad51faeb7c	SimonBlasen	2025-04-17 17:40:58 +0200	Started working on building scene.
+288a32b063b0b12c62f8145d0869864cf6671e88	SimonBlasen	2025-04-17 15:12:40 +0200	Implemented parts menu.
+bc4d58b2dd8adcb7fa8e91bdc55ffc55d3ccb50f	SimonBlasen	2025-04-16 18:36:05 +0200	Added bunch of assets part 2.
+48e4b8fde8f2130ca40a8ede1286d32b545e55d1	SimonBlasen	2025-04-16 18:35:02 +0200	Added Realistic Engine Sounds package.
+598e689c47e96f10681e58b15ec9ff975780c1ff	SimonBlasen	2025-04-16 18:34:33 +0200	Added Open NAT and Razer.
+f24c9b823d8d993140ece6d1f8165ac9183d12a6	SimonBlasen	2025-04-16 18:33:50 +0200	Add NWH.
+4a767a6d90e211662323d3152fdbe19075a7aa9b	SimonBlasen	2025-04-16 18:32:49 +0200	Added bunch of assets part 1.
+9b2dbe8c376f79830677f870830afe389ec73828	SimonBlasen	2025-04-16 18:30:11 +0200	Added Grapher.
+e31ce9325ee03d85958b1facbb61c58c80424ea2	SimonBlasen	2025-04-16 18:29:56 +0200	Added Electric Car Sounds.
+92259b4d72e15d3dff7a03553a5f561cbde3730a	SimonBlasen	2025-04-16 18:28:19 +0200	Added EasyRoads.
+3f27b1b830ebaad3b7b6e1ae640942b4c620a6dd	SimonBlasen	2025-04-16 18:25:08 +0200	Added Chart And Graph.
+5cbd9efe205891b442c723a1d7ba712c690f8d44	SimonBlasen	2025-04-16 18:23:01 +0200	Added scripts.
+6574a6d40981e48c05ec706453e74a46cdba87dc	SimonBlasen	2025-04-16 11:32:10 +0200	Added submodules.Correct .gitignore.
+8133b655bb0a4ccd7a14de7e65f2aed36b033a35	SimonBlasen	2025-04-16 11:21:16 +0200	Added initial project.
+371847c71338c0684d151e19331ec41bd0a7130c	SimonBlasen	2025-04-16 11:15:05 +0200	Initial commit
